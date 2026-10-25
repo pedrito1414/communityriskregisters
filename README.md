@@ -2,6 +2,8 @@
 
 This is the Climate Resilient UK Community Risk Explorer proof-of-concept, using the preferred v1.0 design.
 
+https://pedrito1414.github.io/communityriskregisters/
+
 ## Notes
 
 - This is a public **test prototype**, not a complete, audited collection of UK community risk registers.
