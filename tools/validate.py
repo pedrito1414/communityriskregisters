@@ -1,0 +1,68 @@
+#!/usr/bin/env python3
+"""Validate the shared static site without third-party dependencies."""
+import csv
+import json
+from pathlib import Path
+from html.parser import HTMLParser
+from urllib.parse import urlsplit, unquote
+
+ROOT = Path(__file__).resolve().parents[1]
+def read(name):
+    return json.loads((ROOT / 'data' / name).read_text())
+
+def validate():
+    forums, risks, national, matches, boundaries = (read(n) for n in ['forums.json', 'local-risks.json', 'national-risks.json', 'risk-matches.json', 'boundaries.geojson'])
+    def unique(records, key):
+        values = [r[key] for r in records]
+        assert len(values) == len(set(values)), f'Duplicate {key}'
+        assert all(values), f'Empty {key}'
+        return set(values)
+    codes = unique(forums, 'code'); ids = unique(risks, 'id'); nids = unique(national, 'national_id')
+    assert codes == unique([f['properties'] for f in boundaries['features']], 'code'), 'Forum/boundary mismatch'
+    names = {f['code']: f['name'] for f in forums}
+    for f in forums:
+        assert f['coverage'] in ['summary', 'detailed']
+        assert urlsplit(f['source_url']).scheme == 'https'
+        assert urlsplit(f['website_url']).scheme in ['http', 'https']
+        assert f['website_kind'] in ['website', 'risk-information', 'pdf']
+    for feature in boundaries['features']:
+        assert feature['properties']['name'] == names[feature['properties']['code']]
+        geometry = feature['geometry']
+        assert geometry['type'] in ['Polygon', 'MultiPolygon']
+        polygons = [geometry['coordinates']] if geometry['type'] == 'Polygon' else geometry['coordinates']
+        for polygon in polygons:
+            for ring in polygon:
+                assert len(ring) >= 4 and ring[0] == ring[-1], 'Invalid polygon ring'
+    for risk in risks:
+        assert risk['forum_code'] in codes
+        for field in ['likelihood', 'impact', 'visualRating']:
+            if risk.get(field) is not None:
+                assert isinstance(risk[field], (int, float)) and 1 <= risk[field] <= 5, f'Invalid {field}: {risk["id"]}'
+    assert unique(matches, 'local_id') == ids, 'Missing or extra matches'
+    by_id = {r['id']: r for r in risks}
+    for match in matches:
+        risk = by_id[match['local_id']]
+        assert match['forum_code'] == risk['forum_code']
+        assert match['local_risk'] == risk['name']
+        assert match['lrf'] == names[match['forum_code']]
+        assert not match['national_id'] or match['national_id'] in nids
+        assert match['match_status'] in ['Direct', 'Candidate', 'Broad / multiple', 'Review / unmatched']
+        if match['match_status'] == 'Direct': assert match['national_id']
+    with (ROOT / 'data/risk-matches.csv').open(newline='') as source:
+        assert list(csv.DictReader(source)) == matches, 'CSV download differs from JSON'
+
+    class Links(HTMLParser):
+        def handle_starttag(self, tag, attrs):
+            for name, value in attrs:
+                if name not in ['src', 'href'] or not value: continue
+                parsed = urlsplit(value)
+                if parsed.scheme or parsed.netloc or not parsed.path: continue
+                target = (self.path.parent / unquote(parsed.path)).resolve()
+                assert target.is_relative_to(ROOT), f'Link escapes site: {value}'
+                assert target.exists(), f'Missing local file: {self.path}: {value}'
+                if target.is_dir(): assert (target / 'index.html').exists(), f'Missing index: {value}'
+    for path in ROOT.rglob('*.html'):
+        parser = Links(); parser.path = path; parser.feed(path.read_text())
+    print(f'Validated {len(forums)} forums, {len(risks)} risks, {len(national)} national risks, {len(matches)} matches, boundaries and page links.')
+
+if __name__ == '__main__': validate()
