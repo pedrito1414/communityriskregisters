@@ -1,0 +1,4894 @@
+[
+  {
+    "id": "E48000001-001",
+    "forum_code": "E48000001",
+    "code": "",
+    "name": "Flooding",
+    "likelihood": null,
+    "impact": null,
+    "source": "Avon & Somerset CRR 2026 (narrative category)"
+  },
+  {
+    "id": "E48000001-002",
+    "forum_code": "E48000001",
+    "code": "",
+    "name": "Extreme weather",
+    "likelihood": null,
+    "impact": null,
+    "source": "Avon & Somerset CRR 2026 (narrative category)"
+  },
+  {
+    "id": "E48000001-003",
+    "forum_code": "E48000001",
+    "code": "",
+    "name": "Animal disease",
+    "likelihood": null,
+    "impact": null,
+    "source": "Avon & Somerset CRR 2026 (narrative category)"
+  },
+  {
+    "id": "E48000001-004",
+    "forum_code": "E48000001",
+    "code": "",
+    "name": "Infectious and communicable diseases",
+    "likelihood": null,
+    "impact": null,
+    "source": "Avon & Somerset CRR 2026 (narrative category)"
+  },
+  {
+    "id": "E48000001-005",
+    "forum_code": "E48000001",
+    "code": "",
+    "name": "Transport incidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "Avon & Somerset CRR 2026 (narrative category)"
+  },
+  {
+    "id": "E48000001-006",
+    "forum_code": "E48000001",
+    "code": "",
+    "name": "Industrial site accidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "Avon & Somerset CRR 2026 (narrative category)"
+  },
+  {
+    "id": "E48000001-007",
+    "forum_code": "E48000001",
+    "code": "",
+    "name": "Utilities and key resources: supply disruption",
+    "likelihood": null,
+    "impact": null,
+    "source": "Avon & Somerset CRR 2026 (narrative category)"
+  },
+  {
+    "id": "E48000001-008",
+    "forum_code": "E48000001",
+    "code": "",
+    "name": "Malicious threats, including terrorism",
+    "likelihood": null,
+    "impact": null,
+    "source": "Avon & Somerset CRR 2026 (narrative category)"
+  },
+  {
+    "id": "E48000001-009",
+    "forum_code": "E48000001",
+    "code": "",
+    "name": "Cyber crime",
+    "likelihood": null,
+    "impact": null,
+    "source": "Avon & Somerset CRR 2026 (narrative category)"
+  },
+  {
+    "id": "E48000002-001",
+    "forum_code": "E48000002",
+    "name": "Influenza-type pandemic",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "Very High"
+  },
+  {
+    "id": "E48000002-002",
+    "forum_code": "E48000002",
+    "name": "Failure of national electricity transmission system",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "Very High"
+  },
+  {
+    "id": "E48000002-003",
+    "forum_code": "E48000002",
+    "name": "Worldwide volcanic eruption impacts",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "High"
+  },
+  {
+    "id": "E48000002-004",
+    "forum_code": "E48000002",
+    "name": "Cyber-attack",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "Medium"
+  },
+  {
+    "id": "E48000002-005",
+    "forum_code": "E48000002",
+    "name": "Aviation crash",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "Medium"
+  },
+  {
+    "id": "E48000002-006",
+    "forum_code": "E48000002",
+    "name": "Fluvial flooding",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "Medium"
+  },
+  {
+    "id": "E48000002-007",
+    "forum_code": "E48000002",
+    "name": "Severe space weather",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "Medium"
+  },
+  {
+    "id": "E48000002-008",
+    "forum_code": "E48000002",
+    "name": "Storms",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "Medium"
+  },
+  {
+    "id": "E48000002-009",
+    "forum_code": "E48000002",
+    "name": "Industrial action affecting fuel supply",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "Medium"
+  },
+  {
+    "id": "E48000002-010",
+    "forum_code": "E48000002",
+    "name": "Public disorder",
+    "source": "Official responder summary (date unconfirmed)",
+    "rating": "Medium"
+  },
+  {
+    "id": "E48000003-001",
+    "forum_code": "E48000003",
+    "name": "National electricity transmission failure",
+    "source": "Online Community Risk Register"
+  },
+  {
+    "id": "E48000003-002",
+    "forum_code": "E48000003",
+    "name": "Influenza-type disease",
+    "source": "Online Community Risk Register"
+  },
+  {
+    "id": "E48000003-003",
+    "forum_code": "E48000003",
+    "name": "Radiation release from overseas",
+    "source": "Online Community Risk Register"
+  },
+  {
+    "id": "E48000003-004",
+    "forum_code": "E48000003",
+    "name": "Fluvial flooding",
+    "source": "Online Community Risk Register"
+  },
+  {
+    "id": "E48000003-005",
+    "forum_code": "E48000003",
+    "name": "Heatwave",
+    "source": "Online Community Risk Register"
+  },
+  {
+    "id": "E48000004-001",
+    "forum_code": "E48000004",
+    "name": "Flooding",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000004-002",
+    "forum_code": "E48000004",
+    "name": "Severe weather",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000004-003",
+    "forum_code": "E48000004",
+    "name": "Pandemics and human diseases",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000004-004",
+    "forum_code": "E48000004",
+    "name": "Failure of critical infrastructure",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000004-005",
+    "forum_code": "E48000004",
+    "name": "Cyber threats",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000004-006",
+    "forum_code": "E48000004",
+    "name": "Transport incidents",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000004-007",
+    "forum_code": "E48000004",
+    "name": "Industrial accidents",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000004-008",
+    "forum_code": "E48000004",
+    "name": "Animal disease",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000004-009",
+    "forum_code": "E48000004",
+    "name": "Terrorism",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000004-010",
+    "forum_code": "E48000004",
+    "name": "Social disruption",
+    "source": "Cheshire Community Risk Register"
+  },
+  {
+    "id": "E48000005-001",
+    "forum_code": "E48000005",
+    "name": "Flooding",
+    "source": "Cleveland Community Risk Register 2024"
+  },
+  {
+    "id": "E48000005-002",
+    "forum_code": "E48000005",
+    "name": "Severe weather",
+    "source": "Cleveland Community Risk Register 2024"
+  },
+  {
+    "id": "E48000005-003",
+    "forum_code": "E48000005",
+    "name": "Industrial accidents",
+    "source": "Cleveland Community Risk Register 2024"
+  },
+  {
+    "id": "E48000005-004",
+    "forum_code": "E48000005",
+    "name": "Major transport incidents",
+    "source": "Cleveland Community Risk Register 2024"
+  },
+  {
+    "id": "E48000005-005",
+    "forum_code": "E48000005",
+    "name": "Human infectious diseases",
+    "source": "Cleveland Community Risk Register 2024"
+  },
+  {
+    "id": "E48000005-006",
+    "forum_code": "E48000005",
+    "name": "Animal disease",
+    "source": "Cleveland Community Risk Register 2024"
+  },
+  {
+    "id": "E48000005-007",
+    "forum_code": "E48000005",
+    "name": "Loss of critical infrastructure",
+    "source": "Cleveland Community Risk Register 2024"
+  },
+  {
+    "id": "E48000006-001",
+    "forum_code": "E48000006",
+    "name": "Flooding",
+    "source": "Cumbria public Community Risk Register"
+  },
+  {
+    "id": "E48000006-002",
+    "forum_code": "E48000006",
+    "name": "Severe weather",
+    "source": "Cumbria public Community Risk Register"
+  },
+  {
+    "id": "E48000006-003",
+    "forum_code": "E48000006",
+    "name": "Pandemic and human disease",
+    "source": "Cumbria public Community Risk Register"
+  },
+  {
+    "id": "E48000006-004",
+    "forum_code": "E48000006",
+    "name": "Loss of electricity and utilities",
+    "source": "Cumbria public Community Risk Register"
+  },
+  {
+    "id": "E48000006-005",
+    "forum_code": "E48000006",
+    "name": "Transport incidents",
+    "source": "Cumbria public Community Risk Register"
+  },
+  {
+    "id": "E48000006-006",
+    "forum_code": "E48000006",
+    "name": "Animal disease",
+    "source": "Cumbria public Community Risk Register"
+  },
+  {
+    "id": "E48000007-001",
+    "forum_code": "E48000007",
+    "name": "Fluvial flooding",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-002",
+    "forum_code": "E48000007",
+    "name": "Surface water flooding",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-003",
+    "forum_code": "E48000007",
+    "name": "Severe weather",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-004",
+    "forum_code": "E48000007",
+    "name": "High temperatures and heatwaves",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-005",
+    "forum_code": "E48000007",
+    "name": "Low temperatures and snow",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-006",
+    "forum_code": "E48000007",
+    "name": "Pandemic influenza",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-007",
+    "forum_code": "E48000007",
+    "name": "Emerging infectious diseases",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-008",
+    "forum_code": "E48000007",
+    "name": "Failure of electricity transmission",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-009",
+    "forum_code": "E48000007",
+    "name": "Industrial incidents",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-010",
+    "forum_code": "E48000007",
+    "name": "Major transport accidents",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000007-011",
+    "forum_code": "E48000007",
+    "name": "Animal disease",
+    "source": "Derbyshire-wide Community Risk Register March 2022"
+  },
+  {
+    "id": "E48000008-001",
+    "forum_code": "E48000008",
+    "name": "Pandemic",
+    "code": "54",
+    "likelihood": 4,
+    "impact": 5,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-002",
+    "forum_code": "E48000008",
+    "name": "National electricity transmission failure",
+    "code": "26A",
+    "likelihood": 3,
+    "impact": 5,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-003",
+    "forum_code": "E48000008",
+    "name": "Severe space weather",
+    "code": "47",
+    "likelihood": 4,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-004",
+    "forum_code": "E48000008",
+    "name": "Prolonged low temperatures, snow and/or ice",
+    "code": "50",
+    "likelihood": 4,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-005",
+    "forum_code": "E48000008",
+    "name": "Surface water flooding",
+    "code": "51c",
+    "likelihood": 4,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-006",
+    "forum_code": "E48000008",
+    "name": "Coastal flooding",
+    "code": "51a",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-007",
+    "forum_code": "E48000008",
+    "name": "Fluvial flooding",
+    "code": "51b",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-008",
+    "forum_code": "E48000008",
+    "name": "Emerging infectious disease outbreak",
+    "code": "55",
+    "likelihood": 4,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-009",
+    "forum_code": "E48000008",
+    "name": "Gas supply infrastructure failure",
+    "code": "27",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-010",
+    "forum_code": "E48000008",
+    "name": "High temperatures and heat waves",
+    "code": "49",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-011",
+    "forum_code": "E48000008",
+    "name": "Drought",
+    "code": "52",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-012",
+    "forum_code": "E48000008",
+    "name": "Water infrastructure failure or loss of drinking water",
+    "code": "39",
+    "likelihood": 2,
+    "impact": 4,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-013",
+    "forum_code": "E48000008",
+    "name": "Storms",
+    "code": "48",
+    "likelihood": 4,
+    "impact": 3,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-014",
+    "forum_code": "E48000008",
+    "name": "Regional electricity network failure",
+    "code": "26b",
+    "likelihood": 3,
+    "impact": 3,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-015",
+    "forum_code": "E48000008",
+    "name": "Fuel shortages",
+    "code": "15",
+    "likelihood": 3,
+    "impact": 3,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000008-016",
+    "forum_code": "E48000008",
+    "name": "Simultaneous loss of fixed and mobile communications",
+    "code": "25",
+    "likelihood": 3,
+    "impact": 3,
+    "source": "2024 DCIOS register (sample)"
+  },
+  {
+    "id": "E48000009-001",
+    "forum_code": "E48000009",
+    "name": "Failure of the national electricity transmission system (NETS)",
+    "code": "R50a",
+    "likelihood": 3,
+    "impact": 5,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-002",
+    "forum_code": "E48000009",
+    "name": "Failure of gas supply infrastructure",
+    "code": "R51",
+    "likelihood": 3,
+    "impact": 4,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-003",
+    "forum_code": "E48000009",
+    "name": "Severe Space weather",
+    "code": "R71",
+    "likelihood": 4,
+    "impact": 4,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-004",
+    "forum_code": "E48000009",
+    "name": "High temperature and heatwaves",
+    "code": "R73",
+    "likelihood": 3,
+    "impact": 4,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-005",
+    "forum_code": "E48000009",
+    "name": "Low temperatures and snow",
+    "code": "R74",
+    "likelihood": 4,
+    "impact": 4,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-006",
+    "forum_code": "E48000009",
+    "name": "Coastal flooding",
+    "code": "R75a",
+    "likelihood": 3,
+    "impact": 4,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-007",
+    "forum_code": "E48000009",
+    "name": "Fluvial flooding",
+    "code": "R75b",
+    "likelihood": 3,
+    "impact": 4,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-008",
+    "forum_code": "E48000009",
+    "name": "Surface water flooding",
+    "code": "R75c",
+    "likelihood": 3,
+    "impact": 4,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-009",
+    "forum_code": "E48000009",
+    "name": "Pandemic",
+    "code": "R78",
+    "likelihood": 4,
+    "impact": 5,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-010",
+    "forum_code": "E48000009",
+    "name": "Outbreak of an emerging infectious disease",
+    "code": "R79",
+    "likelihood": 4,
+    "impact": 4,
+    "rating": "Very High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-011",
+    "forum_code": "E48000009",
+    "name": "Localised flooding caused by groundwater emergence/spring activity",
+    "code": "DL2",
+    "likelihood": 4,
+    "impact": 3,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-012",
+    "forum_code": "E48000009",
+    "name": "Land Movement (e.g. significant landslips, rockfalls)",
+    "code": "DL3",
+    "likelihood": 4,
+    "impact": 3,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-013",
+    "forum_code": "E48000009",
+    "name": "Simultaneous loss of all fixed and mobile forms of communication",
+    "code": "R49",
+    "likelihood": 3,
+    "impact": 3,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-014",
+    "forum_code": "E48000009",
+    "name": "Regional failure of electricity network",
+    "code": "R50b",
+    "likelihood": 3,
+    "impact": 3,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-015",
+    "forum_code": "E48000009",
+    "name": "Radiation release from overseas nuclear site",
+    "code": "R53",
+    "likelihood": 1,
+    "impact": 5,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-016",
+    "forum_code": "E48000009",
+    "name": "Reservoir / dam collapse",
+    "code": "R62",
+    "likelihood": 2,
+    "impact": 4,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-017",
+    "forum_code": "E48000009",
+    "name": "Wildfire",
+    "code": "R66",
+    "likelihood": 4,
+    "impact": 3,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-018",
+    "forum_code": "E48000009",
+    "name": "Volcanic eruption",
+    "code": "R67",
+    "likelihood": 4,
+    "impact": 3,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-019",
+    "forum_code": "E48000009",
+    "name": "Storms",
+    "code": "R72",
+    "likelihood": 4,
+    "impact": 3,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-020",
+    "forum_code": "E48000009",
+    "name": "Major outbreak of foot and mouth disease",
+    "code": "R80a",
+    "likelihood": 2,
+    "impact": 4,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-021",
+    "forum_code": "E48000009",
+    "name": "Major outbreak of highly pathogenic avian influenza",
+    "code": "R80b",
+    "likelihood": 3,
+    "impact": 3,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-022",
+    "forum_code": "E48000009",
+    "name": "Industrial action - fuel supply",
+    "code": "R86",
+    "likelihood": 3,
+    "impact": 3,
+    "rating": "High",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-023",
+    "forum_code": "E48000009",
+    "name": "Radioactive Release during visit of nuclear-powered vessel (NPV) to Portland Port",
+    "code": "DL1",
+    "likelihood": 1,
+    "impact": 3,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-024",
+    "forum_code": "E48000009",
+    "name": "Bridge Closure due collapse",
+    "code": "DL4",
+    "likelihood": null,
+    "impact": 4,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-025",
+    "forum_code": "E48000009",
+    "name": "Cyber-attack – government critical systems loss (public)",
+    "code": "R28a",
+    "likelihood": 5,
+    "impact": 2,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-026",
+    "forum_code": "E48000009",
+    "name": "Major social care provider failure",
+    "code": "R36",
+    "likelihood": 4,
+    "impact": 2,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-027",
+    "forum_code": "E48000009",
+    "name": "Insolvency of supplier(s) of critical services to the public sector",
+    "code": "R37",
+    "likelihood": 3,
+    "impact": 2,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-028",
+    "forum_code": "E48000009",
+    "name": "Rail accident",
+    "code": "R40",
+    "likelihood": 2,
+    "impact": 2,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-029",
+    "forum_code": "E48000009",
+    "name": "Large passenger vessel accident",
+    "code": "R41",
+    "likelihood": 1,
+    "impact": 3,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-030",
+    "forum_code": "E48000009",
+    "name": "Accident involving high consequence dangerous goods",
+    "code": "R44",
+    "likelihood": 3,
+    "impact": 2,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-031",
+    "forum_code": "E48000009",
+    "name": "Aviation collision",
+    "code": "R45",
+    "likelihood": 1,
+    "impact": 4,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-032",
+    "forum_code": "E48000009",
+    "name": "Accidental fire or explosion at an onshore major hazard (COMAH) site",
+    "code": "R56",
+    "likelihood": 1,
+    "impact": 3,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-033",
+    "forum_code": "E48000009",
+    "name": "Accidental large toxic chemical release at an onshore major hazard (COMAH) site",
+    "code": "R57",
+    "likelihood": null,
+    "impact": 3,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-034",
+    "forum_code": "E48000009",
+    "name": "Fire or explosion at an onshore fuel pipeline",
+    "code": "R59",
+    "likelihood": 1,
+    "impact": 3,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-035",
+    "forum_code": "E48000009",
+    "name": "Major fire",
+    "code": "R65",
+    "likelihood": 2,
+    "impact": 2,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-036",
+    "forum_code": "E48000009",
+    "name": "Drought",
+    "code": "R76",
+    "likelihood": 2,
+    "impact": 3,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-037",
+    "forum_code": "E48000009",
+    "name": "Public Disorder",
+    "code": "R82",
+    "likelihood": 3,
+    "impact": 2,
+    "rating": "Medium",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-038",
+    "forum_code": "E48000009",
+    "name": "Insolvency affecting fuel supply",
+    "code": "R38",
+    "likelihood": 4,
+    "impact": 1,
+    "rating": "Low",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-039",
+    "forum_code": "E48000009",
+    "name": "Major Maritime pollution",
+    "code": "R42",
+    "likelihood": 1,
+    "impact": 2,
+    "rating": "Low",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-040",
+    "forum_code": "E48000009",
+    "name": "Radiation exposure from transported, stolen or lost goods",
+    "code": "R54",
+    "likelihood": 1,
+    "impact": 2,
+    "rating": "Low",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-041",
+    "forum_code": "E48000009",
+    "name": "Water infrastructure failure or loss of drinking water",
+    "code": "R63",
+    "likelihood": 2,
+    "impact": 1,
+    "rating": "Low",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000009-042",
+    "forum_code": "E48000009",
+    "name": "Industrial action – public transport",
+    "code": "R83",
+    "likelihood": 3,
+    "impact": 1,
+    "rating": "Low",
+    "source": "Dorset register 2024"
+  },
+  {
+    "id": "E48000010-001",
+    "forum_code": "E48000010",
+    "name": "Severe weather",
+    "source": "County Durham & Darlington CRR 2024–2026"
+  },
+  {
+    "id": "E48000010-002",
+    "forum_code": "E48000010",
+    "name": "Flooding",
+    "source": "County Durham & Darlington CRR 2024–2026"
+  },
+  {
+    "id": "E48000010-003",
+    "forum_code": "E48000010",
+    "name": "Pandemic and infectious disease",
+    "source": "County Durham & Darlington CRR 2024–2026"
+  },
+  {
+    "id": "E48000010-004",
+    "forum_code": "E48000010",
+    "name": "Industrial accidents",
+    "source": "County Durham & Darlington CRR 2024–2026"
+  },
+  {
+    "id": "E48000010-005",
+    "forum_code": "E48000010",
+    "name": "Transport incidents",
+    "source": "County Durham & Darlington CRR 2024–2026"
+  },
+  {
+    "id": "E48000010-006",
+    "forum_code": "E48000010",
+    "name": "Loss of essential services",
+    "source": "County Durham & Darlington CRR 2024–2026"
+  },
+  {
+    "id": "E48000010-007",
+    "forum_code": "E48000010",
+    "name": "Animal disease",
+    "source": "County Durham & Darlington CRR 2024–2026"
+  },
+  {
+    "id": "E48000011-001",
+    "forum_code": "E48000011",
+    "name": "Flooding",
+    "source": "Essex Community Risk Register 2024–2026 v3"
+  },
+  {
+    "id": "E48000011-002",
+    "forum_code": "E48000011",
+    "name": "Severe weather",
+    "source": "Essex Community Risk Register 2024–2026 v3"
+  },
+  {
+    "id": "E48000011-003",
+    "forum_code": "E48000011",
+    "name": "Human infectious diseases",
+    "source": "Essex Community Risk Register 2024–2026 v3"
+  },
+  {
+    "id": "E48000011-004",
+    "forum_code": "E48000011",
+    "name": "Animal diseases",
+    "source": "Essex Community Risk Register 2024–2026 v3"
+  },
+  {
+    "id": "E48000011-005",
+    "forum_code": "E48000011",
+    "name": "Industrial incidents",
+    "source": "Essex Community Risk Register 2024–2026 v3"
+  },
+  {
+    "id": "E48000011-006",
+    "forum_code": "E48000011",
+    "name": "Cyber-attacks",
+    "source": "Essex Community Risk Register 2024–2026 v3"
+  },
+  {
+    "id": "E48000011-007",
+    "forum_code": "E48000011",
+    "name": "Infrastructure failures",
+    "source": "Essex Community Risk Register 2024–2026 v3"
+  },
+  {
+    "id": "E48000011-008",
+    "forum_code": "E48000011",
+    "name": "Transport incidents",
+    "source": "Essex Community Risk Register 2024–2026 v3"
+  },
+  {
+    "id": "E48000012-001",
+    "forum_code": "E48000012",
+    "name": "Infectious disease",
+    "code": "",
+    "likelihood": 3,
+    "impact": 5,
+    "source": "Gloucestershire CRR 2024, p4 headline matrix"
+  },
+  {
+    "id": "E48000012-002",
+    "forum_code": "E48000012",
+    "name": "Terrorism",
+    "code": "",
+    "likelihood": 4,
+    "impact": 5,
+    "source": "Gloucestershire CRR 2024, p4 headline matrix"
+  },
+  {
+    "id": "E48000012-003",
+    "forum_code": "E48000012",
+    "name": "Electricity supply failure",
+    "code": "",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "Gloucestershire CRR 2024, p4 headline matrix"
+  },
+  {
+    "id": "E48000012-004",
+    "forum_code": "E48000012",
+    "name": "Flooding",
+    "code": "",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "Gloucestershire CRR 2024, p4 headline matrix"
+  },
+  {
+    "id": "E48000012-005",
+    "forum_code": "E48000012",
+    "name": "Fuel supply disruption",
+    "code": "",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "Gloucestershire CRR 2024, p4 headline matrix"
+  },
+  {
+    "id": "E48000012-006",
+    "forum_code": "E48000012",
+    "name": "Extreme weather",
+    "code": "",
+    "likelihood": 4,
+    "impact": 3,
+    "source": "Gloucestershire CRR 2024, p4 headline matrix"
+  },
+  {
+    "id": "E48000012-007",
+    "forum_code": "E48000012",
+    "name": "Cyber attack",
+    "code": "",
+    "likelihood": 5,
+    "impact": 3,
+    "source": "Gloucestershire CRR 2024, p4 headline matrix"
+  },
+  {
+    "id": "E48000013-001",
+    "forum_code": "E48000013",
+    "name": "Flooding",
+    "source": "Greater Manchester Community Risk Register 2019"
+  },
+  {
+    "id": "E48000013-002",
+    "forum_code": "E48000013",
+    "name": "Severe weather",
+    "source": "Greater Manchester Community Risk Register 2019"
+  },
+  {
+    "id": "E48000013-003",
+    "forum_code": "E48000013",
+    "name": "Pandemic influenza",
+    "source": "Greater Manchester Community Risk Register 2019"
+  },
+  {
+    "id": "E48000013-004",
+    "forum_code": "E48000013",
+    "name": "Industrial accidents",
+    "source": "Greater Manchester Community Risk Register 2019"
+  },
+  {
+    "id": "E48000013-005",
+    "forum_code": "E48000013",
+    "name": "Transport incidents",
+    "source": "Greater Manchester Community Risk Register 2019"
+  },
+  {
+    "id": "E48000013-006",
+    "forum_code": "E48000013",
+    "name": "Loss of utilities",
+    "source": "Greater Manchester Community Risk Register 2019"
+  },
+  {
+    "id": "E48000013-007",
+    "forum_code": "E48000013",
+    "name": "Animal disease",
+    "source": "Greater Manchester Community Risk Register 2019"
+  },
+  {
+    "id": "E48000014-001",
+    "forum_code": "E48000014",
+    "code": "NRR1",
+    "name": "International Terrorist Attack",
+    "rating": "Low",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-002",
+    "forum_code": "E48000014",
+    "code": "NRR2",
+    "name": "Northern Ireland related Terrorism",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-003",
+    "forum_code": "E48000014",
+    "code": "NRR3",
+    "name": "Terrorist attacks in publicly accessible locations",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-004",
+    "forum_code": "E48000014",
+    "code": "NRR4",
+    "name": "Terrorist attacks on transport",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-005",
+    "forum_code": "E48000014",
+    "code": "NRR5",
+    "name": "Strategic hostage taking",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-006",
+    "forum_code": "E48000014",
+    "code": "NRR6",
+    "name": "Assassination of a high-profile public figure",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-007",
+    "forum_code": "E48000014",
+    "code": "NRR7,8,9",
+    "name": "CBRN attacks (Small, Medium, Large scale)",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-008",
+    "forum_code": "E48000014",
+    "code": "NRR10",
+    "name": "Conventional Attacks on Infrastructure",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-009",
+    "forum_code": "E48000014",
+    "code": "NRR11",
+    "name": "Cyber Attacks on Infrastructure",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-010",
+    "forum_code": "E48000014",
+    "code": "NRR61",
+    "name": "Deliberate disruption of UK space systems and space based services",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 2"
+  },
+  {
+    "id": "E48000014-011",
+    "forum_code": "E48000014",
+    "code": "R036",
+    "name": "Major Social Care Provider Business Failure",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-012",
+    "forum_code": "E48000014",
+    "code": "R037",
+    "name": "Insolvency of supplier(s) of critical services to the public sector",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-013",
+    "forum_code": "E48000014",
+    "code": "R038",
+    "name": "Insolvency affecting fuel supply",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-014",
+    "forum_code": "E48000014",
+    "code": "R039",
+    "name": "Failure of a supplier of CNI chemicals",
+    "rating": "Low",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-015",
+    "forum_code": "E48000014",
+    "code": "R040",
+    "name": "Railway Accident",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-016",
+    "forum_code": "E48000014",
+    "code": "R041",
+    "name": "Large passenger vessel accident",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-017",
+    "forum_code": "E48000014",
+    "code": "R042",
+    "name": "Major Maritime Pollution",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-018",
+    "forum_code": "E48000014",
+    "code": "R043",
+    "name": "Incident (grounding / sinking) of a vessel blocking a major port",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-019",
+    "forum_code": "E48000014",
+    "code": "R044",
+    "name": "Accident Involving High Consequence Dangerous Goods",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-020",
+    "forum_code": "E48000014",
+    "code": "R045",
+    "name": "Aviation Collision",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-021",
+    "forum_code": "E48000014",
+    "code": "R046",
+    "name": "Malicious drone incident",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-022",
+    "forum_code": "E48000014",
+    "code": "R047",
+    "name": "Disruption of space based services",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-023",
+    "forum_code": "E48000014",
+    "code": "R048",
+    "name": "Loss of Positioning, Navigation and Timing (PNT) services",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-024",
+    "forum_code": "E48000014",
+    "code": "R049",
+    "name": "Simultaneous loss of all fixed and mobile forms of communication",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-025",
+    "forum_code": "E48000014",
+    "code": "R050.1",
+    "name": "Failure of the National Electricity Transmission System (NETS)",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-026",
+    "forum_code": "E48000014",
+    "code": "R050.2",
+    "name": "Regional failure of the electricity network",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-027",
+    "forum_code": "E48000014",
+    "code": "R051",
+    "name": "Failure of Gas Supply Infrastructure",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-028",
+    "forum_code": "E48000014",
+    "code": "R053",
+    "name": "Radiation release from overseas nuclear site",
+    "rating": "Low",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-029",
+    "forum_code": "E48000014",
+    "code": "R054",
+    "name": "Radiation exposure from transported, stolen or lost goods",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-030",
+    "forum_code": "E48000014",
+    "code": "R055.1",
+    "name": "Technological Failure of a Systemically Important Retail Bank",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-031",
+    "forum_code": "E48000014",
+    "code": "R055.2",
+    "name": "Technological failure of a UK critical Financial Market Infrastructure",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-032",
+    "forum_code": "E48000014",
+    "code": "R056",
+    "name": "Accidental fire or explosion at an onshore major hazard (COMAH) site",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-033",
+    "forum_code": "E48000014",
+    "code": "R057",
+    "name": "Accidental large toxic chemical release from an onshore major hazard (COMAH) site",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-034",
+    "forum_code": "E48000014",
+    "code": "R059",
+    "name": "Accidental Fire or Explosion at an Onshore Fuel Pipeline",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 3"
+  },
+  {
+    "id": "E48000014-035",
+    "forum_code": "E48000014",
+    "code": "R060",
+    "name": "Accidental Fire or Explosion at an onshore Major Accident Hazard Pipeline",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-036",
+    "forum_code": "E48000014",
+    "code": "R061",
+    "name": "Accidental work-related (laboratory) release of a hazardous pathogen",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-037",
+    "forum_code": "E48000014",
+    "code": "R062",
+    "name": "Reservoir/Dam Collapse",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-038",
+    "forum_code": "E48000014",
+    "code": "R063",
+    "name": "Water infrastructure failure or loss of drinking water",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-039",
+    "forum_code": "E48000014",
+    "code": "R064",
+    "name": "Food Supply Contamination",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-040",
+    "forum_code": "E48000014",
+    "code": "R065",
+    "name": "Major Fire",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-041",
+    "forum_code": "E48000014",
+    "code": "R066",
+    "name": "Wildfire",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-042",
+    "forum_code": "E48000014",
+    "code": "R067",
+    "name": "Volcanic Eruption",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-043",
+    "forum_code": "E48000014",
+    "code": "R068",
+    "name": "Earthquake",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-044",
+    "forum_code": "E48000014",
+    "code": "R071",
+    "name": "Severe Space Weather",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-045",
+    "forum_code": "E48000014",
+    "code": "R072",
+    "name": "Storms",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-046",
+    "forum_code": "E48000014",
+    "code": "R073",
+    "name": "High temperatures and heatwaves",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-047",
+    "forum_code": "E48000014",
+    "code": "R074",
+    "name": "Low Temperatures and Snow",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-048",
+    "forum_code": "E48000014",
+    "code": "R075.1",
+    "name": "Coastal Flooding",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-049",
+    "forum_code": "E48000014",
+    "code": "R075.2",
+    "name": "Fluvial Flooding",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-050",
+    "forum_code": "E48000014",
+    "code": "R075.3",
+    "name": "Surface Water Flooding",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-051",
+    "forum_code": "E48000014",
+    "code": "R076",
+    "name": "Drought",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-052",
+    "forum_code": "E48000014",
+    "code": "R077",
+    "name": "Poor Air Quality",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-053",
+    "forum_code": "E48000014",
+    "code": "R078",
+    "name": "Pandemic",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-054",
+    "forum_code": "E48000014",
+    "code": "R079",
+    "name": "Outbreak of an emerging infectious disease",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 4"
+  },
+  {
+    "id": "E48000014-055",
+    "forum_code": "E48000014",
+    "code": "R080.1",
+    "name": "Animal disease - major outbreak of Foot and Mouth disease",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-056",
+    "forum_code": "E48000014",
+    "code": "R080.2",
+    "name": "Animal disease - major outbreak of highly pathogenic avian influenza",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-057",
+    "forum_code": "E48000014",
+    "code": "R080.3",
+    "name": "Animal disease - major outbreak of African horse sickness",
+    "rating": "Low",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-058",
+    "forum_code": "E48000014",
+    "code": "R080.4",
+    "name": "Animal disease - major outbreak of African Swine Fever",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-059",
+    "forum_code": "E48000014",
+    "code": "R081.1",
+    "name": "Major outbreak of plant pest - Xylella fastidiosa",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-060",
+    "forum_code": "E48000014",
+    "code": "R081.2",
+    "name": "Major outbreak of plant pest - Agrilus planipennis",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-061",
+    "forum_code": "E48000014",
+    "code": "R082",
+    "name": "Public Disorder",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-062",
+    "forum_code": "E48000014",
+    "code": "R083",
+    "name": "Industrial Action - Public Transport",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-063",
+    "forum_code": "E48000014",
+    "code": "R084",
+    "name": "Industrial Action - firefighters",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-064",
+    "forum_code": "E48000014",
+    "code": "R085",
+    "name": "Industrial Action - Prison Staff",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-065",
+    "forum_code": "E48000014",
+    "code": "R086",
+    "name": "Industrial action - fuel supply",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-066",
+    "forum_code": "E48000014",
+    "code": "R087",
+    "name": "Reception and integration of British Nationals arriving from overseas",
+    "rating": "Low",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-067",
+    "forum_code": "E48000014",
+    "code": "RHL04",
+    "name": "Major Pollution of Surface Waters and Groundwater",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-068",
+    "forum_code": "E48000014",
+    "code": "RHL10",
+    "name": "Local Accident on Motorways and Major Trunk Roads",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-069",
+    "forum_code": "E48000014",
+    "code": "RHL21",
+    "name": "Land Movement",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-070",
+    "forum_code": "E48000014",
+    "code": "RHL22",
+    "name": "Building Collapse or Bridge Closure/Collapse",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-071",
+    "forum_code": "E48000014",
+    "code": "RHL42",
+    "name": "Industrial Action of Emergency Service Workers",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-072",
+    "forum_code": "E48000014",
+    "code": "RL001",
+    "name": "Groundwater Flooding",
+    "rating": "Very High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-073",
+    "forum_code": "E48000014",
+    "code": "RL003",
+    "name": "Removal of Explosive Ordnance (EO)",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-074",
+    "forum_code": "E48000014",
+    "code": "RL004",
+    "name": "Widespread Industrial Action or Disruptive Action Short of a Strike",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-075",
+    "forum_code": "E48000014",
+    "code": "RL005",
+    "name": "Incidents Involving Piers and Similar Maritime Structures",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-076",
+    "forum_code": "E48000014",
+    "code": "RL008",
+    "name": "Fire or Pollution at a Waste Site",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-077",
+    "forum_code": "E48000014",
+    "code": "RL009",
+    "name": "Radioactive release by a visiting nuclear powered vessel to Portsmouth & Southampton Ports",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 5"
+  },
+  {
+    "id": "E48000014-078",
+    "forum_code": "E48000014",
+    "code": "RL016",
+    "name": "Accidental Release of a Biological Substance",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 6"
+  },
+  {
+    "id": "E48000014-079",
+    "forum_code": "E48000014",
+    "code": "RL017",
+    "name": "Off-site emergency for Atomic Weapons Establishment (AWE) / radioactive release by Atomic Weapons Establishment (AWE)",
+    "rating": "High",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 6"
+  },
+  {
+    "id": "E48000014-080",
+    "forum_code": "E48000014",
+    "code": "RL018",
+    "name": "Loss of a Cross Solent Ferry Route",
+    "rating": "Medium",
+    "source": "Hampshire & Isle of Wight LRF risk matrix (2026), p. 6"
+  },
+  {
+    "id": "E48000015-001",
+    "forum_code": "E48000015",
+    "name": "Infectious diseases",
+    "source": "Hertfordshire council risk-register summary"
+  },
+  {
+    "id": "E48000015-002",
+    "forum_code": "E48000015",
+    "name": "Extreme temperatures",
+    "source": "Hertfordshire council risk-register summary"
+  },
+  {
+    "id": "E48000015-003",
+    "forum_code": "E48000015",
+    "name": "Transport accidents",
+    "source": "Hertfordshire council risk-register summary"
+  },
+  {
+    "id": "E48000015-004",
+    "forum_code": "E48000015",
+    "name": "Flooding",
+    "source": "Hertfordshire council risk-register summary"
+  },
+  {
+    "id": "E48000015-005",
+    "forum_code": "E48000015",
+    "name": "Infrastructure failure",
+    "source": "Hertfordshire council risk-register summary"
+  },
+  {
+    "id": "E48000016-001",
+    "forum_code": "E48000016",
+    "name": "Flooding",
+    "source": "Humber Community Risk Register May 2024"
+  },
+  {
+    "id": "E48000016-002",
+    "forum_code": "E48000016",
+    "name": "Severe weather",
+    "source": "Humber Community Risk Register May 2024"
+  },
+  {
+    "id": "E48000016-003",
+    "forum_code": "E48000016",
+    "name": "Pandemic influenza",
+    "source": "Humber Community Risk Register May 2024"
+  },
+  {
+    "id": "E48000016-004",
+    "forum_code": "E48000016",
+    "name": "Emerging infectious diseases",
+    "source": "Humber Community Risk Register May 2024"
+  },
+  {
+    "id": "E48000016-005",
+    "forum_code": "E48000016",
+    "name": "Industrial accidents",
+    "source": "Humber Community Risk Register May 2024"
+  },
+  {
+    "id": "E48000016-006",
+    "forum_code": "E48000016",
+    "name": "Transport accidents",
+    "source": "Humber Community Risk Register May 2024"
+  },
+  {
+    "id": "E48000016-007",
+    "forum_code": "E48000016",
+    "name": "Power supply interruption",
+    "source": "Humber Community Risk Register May 2024"
+  },
+  {
+    "id": "E48000016-008",
+    "forum_code": "E48000016",
+    "name": "Animal diseases",
+    "source": "Humber Community Risk Register May 2024"
+  },
+  {
+    "id": "E48000017-001",
+    "forum_code": "E48000017",
+    "name": "Failure of the National Electricity Transmission System (NETS)",
+    "rating": "Very High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 3"
+  },
+  {
+    "id": "E48000017-002",
+    "forum_code": "E48000017",
+    "name": "Failure of gas supply infrastructure",
+    "rating": "Very High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 4"
+  },
+  {
+    "id": "E48000017-003",
+    "forum_code": "E48000017",
+    "name": "Low temperatures and snow",
+    "rating": "Very High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 4"
+  },
+  {
+    "id": "E48000017-004",
+    "forum_code": "E48000017",
+    "name": "Major coastal and tidal flooding",
+    "rating": "Very High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 4"
+  },
+  {
+    "id": "E48000017-005",
+    "forum_code": "E48000017",
+    "name": "Pandemic",
+    "rating": "Very High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 4"
+  },
+  {
+    "id": "E48000017-006",
+    "forum_code": "E48000017",
+    "name": "Loss of the strategic road network",
+    "rating": "Very High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 5"
+  },
+  {
+    "id": "E48000017-007",
+    "forum_code": "E48000017",
+    "name": "Loss of port — border closure, counterterrorism or infrastructure",
+    "rating": "Very High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 5"
+  },
+  {
+    "id": "E48000017-008",
+    "forum_code": "E48000017",
+    "name": "Simultaneous loss of all fixed and mobile forms of communication",
+    "rating": "High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 5"
+  },
+  {
+    "id": "E48000017-009",
+    "forum_code": "E48000017",
+    "name": "Regional failure of the electricity network",
+    "rating": "High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 5"
+  },
+  {
+    "id": "E48000017-010",
+    "forum_code": "E48000017",
+    "name": "Food supply contamination",
+    "rating": "High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 6"
+  },
+  {
+    "id": "E48000017-011",
+    "forum_code": "E48000017",
+    "name": "Severe weather",
+    "rating": "High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 6"
+  },
+  {
+    "id": "E48000017-012",
+    "forum_code": "E48000017",
+    "name": "Fluvial and surface water flooding",
+    "rating": "High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 6"
+  },
+  {
+    "id": "E48000017-013",
+    "forum_code": "E48000017",
+    "name": "Localised flash flooding",
+    "rating": "High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 6"
+  },
+  {
+    "id": "E48000017-014",
+    "forum_code": "E48000017",
+    "name": "Outbreak of an emerging infectious disease",
+    "rating": "High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 6"
+  },
+  {
+    "id": "E48000017-015",
+    "forum_code": "E48000017",
+    "name": "Industrial action by workers providing critical services",
+    "rating": "High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 7"
+  },
+  {
+    "id": "E48000017-016",
+    "forum_code": "E48000017",
+    "name": "Prolonged disruption to border control locations",
+    "rating": "High",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 7"
+  },
+  {
+    "id": "E48000017-017",
+    "forum_code": "E48000017",
+    "name": "Major adult social care provider failure",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 7"
+  },
+  {
+    "id": "E48000017-018",
+    "forum_code": "E48000017",
+    "name": "Rail accident",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 7"
+  },
+  {
+    "id": "E48000017-019",
+    "forum_code": "E48000017",
+    "name": "Large passenger vessel accident",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 7"
+  },
+  {
+    "id": "E48000017-020",
+    "forum_code": "E48000017",
+    "name": "Major maritime pollution",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 7"
+  },
+  {
+    "id": "E48000017-021",
+    "forum_code": "E48000017",
+    "name": "Vessel grounding or sinking blocking a major port",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 8"
+  },
+  {
+    "id": "E48000017-022",
+    "forum_code": "E48000017",
+    "name": "Accident involving high consequence dangerous goods",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 8"
+  },
+  {
+    "id": "E48000017-023",
+    "forum_code": "E48000017",
+    "name": "Aviation collision",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 8"
+  },
+  {
+    "id": "E48000017-024",
+    "forum_code": "E48000017",
+    "name": "Civil nuclear accident",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 8"
+  },
+  {
+    "id": "E48000017-025",
+    "forum_code": "E48000017",
+    "name": "Radiation release from overseas nuclear site",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 8"
+  },
+  {
+    "id": "E48000017-026",
+    "forum_code": "E48000017",
+    "name": "Impact to chemical, fuel, gas or electricity infrastructure",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 8"
+  },
+  {
+    "id": "E48000017-027",
+    "forum_code": "E48000017",
+    "name": "Reservoir or dam collapse",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 9"
+  },
+  {
+    "id": "E48000017-028",
+    "forum_code": "E48000017",
+    "name": "Water infrastructure failure or loss of drinking water",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 9"
+  },
+  {
+    "id": "E48000017-029",
+    "forum_code": "E48000017",
+    "name": "Major fire",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 9"
+  },
+  {
+    "id": "E48000017-030",
+    "forum_code": "E48000017",
+    "name": "Wildfire",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 9"
+  },
+  {
+    "id": "E48000017-031",
+    "forum_code": "E48000017",
+    "name": "Volcanic eruption",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 9"
+  },
+  {
+    "id": "E48000017-032",
+    "forum_code": "E48000017",
+    "name": "Drought",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 9"
+  },
+  {
+    "id": "E48000017-033",
+    "forum_code": "E48000017",
+    "name": "Poor air quality",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 10"
+  },
+  {
+    "id": "E48000017-034",
+    "forum_code": "E48000017",
+    "name": "Major outbreak of foot and mouth disease",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 10"
+  },
+  {
+    "id": "E48000017-035",
+    "forum_code": "E48000017",
+    "name": "Major outbreak of highly pathogenic avian influenza",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 10"
+  },
+  {
+    "id": "E48000017-036",
+    "forum_code": "E48000017",
+    "name": "Public disorder",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 10"
+  },
+  {
+    "id": "E48000017-037",
+    "forum_code": "E48000017",
+    "name": "Industrial action affecting fuel supply",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 10"
+  },
+  {
+    "id": "E48000017-038",
+    "forum_code": "E48000017",
+    "name": "Incident in a road tunnel",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 10"
+  },
+  {
+    "id": "E48000017-039",
+    "forum_code": "E48000017",
+    "name": "Local accident on motorways and major trunk roads",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 11"
+  },
+  {
+    "id": "E48000017-040",
+    "forum_code": "E48000017",
+    "name": "Major pollution of inland freshwater and groundwater",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 11"
+  },
+  {
+    "id": "E48000017-041",
+    "forum_code": "E48000017",
+    "name": "Land-based marine, coastal and estuary pollution",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 11"
+  },
+  {
+    "id": "E48000017-042",
+    "forum_code": "E48000017",
+    "name": "Building collapse",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 11"
+  },
+  {
+    "id": "E48000017-043",
+    "forum_code": "E48000017",
+    "name": "Bridge closure or collapse",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 11"
+  },
+  {
+    "id": "E48000017-044",
+    "forum_code": "E48000017",
+    "name": "Large toxic chemical release",
+    "rating": "Medium",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 12"
+  },
+  {
+    "id": "E48000017-045",
+    "forum_code": "E48000017",
+    "name": "Malicious contamination of the food chain",
+    "rating": "Low",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 12"
+  },
+  {
+    "id": "E48000017-046",
+    "forum_code": "E48000017",
+    "name": "Cyberattack — transport sector",
+    "rating": "Low",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 12"
+  },
+  {
+    "id": "E48000017-047",
+    "forum_code": "E48000017",
+    "name": "Cyberattack — telecommunications systems",
+    "rating": "Low",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 12"
+  },
+  {
+    "id": "E48000017-048",
+    "forum_code": "E48000017",
+    "name": "Insolvency affecting fuel supply",
+    "rating": "Low",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 12"
+  },
+  {
+    "id": "E48000017-049",
+    "forum_code": "E48000017",
+    "name": "Radiation exposure from transported, stolen or lost goods",
+    "rating": "Low",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 13"
+  },
+  {
+    "id": "E48000017-050",
+    "forum_code": "E48000017",
+    "name": "Accidental laboratory release of a hazardous pathogen",
+    "rating": "Low",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 13"
+  },
+  {
+    "id": "E48000017-051",
+    "forum_code": "E48000017",
+    "name": "Earthquake",
+    "rating": "Low",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 13"
+  },
+  {
+    "id": "E48000017-052",
+    "forum_code": "E48000017",
+    "name": "Reception and integration of British nationals arriving from overseas",
+    "rating": "Low",
+    "source": "Kent Community Risk Register V3 (February 2026), p. 13"
+  },
+  {
+    "id": "E48000018-001",
+    "forum_code": "E48000018",
+    "name": "Flooding",
+    "source": "Lancashire Community Risk Register Summary 2025"
+  },
+  {
+    "id": "E48000018-002",
+    "forum_code": "E48000018",
+    "name": "Severe weather",
+    "source": "Lancashire Community Risk Register Summary 2025"
+  },
+  {
+    "id": "E48000018-003",
+    "forum_code": "E48000018",
+    "name": "Human infectious disease",
+    "source": "Lancashire Community Risk Register Summary 2025"
+  },
+  {
+    "id": "E48000018-004",
+    "forum_code": "E48000018",
+    "name": "Loss of utilities",
+    "source": "Lancashire Community Risk Register Summary 2025"
+  },
+  {
+    "id": "E48000018-005",
+    "forum_code": "E48000018",
+    "name": "Transport incidents",
+    "source": "Lancashire Community Risk Register Summary 2025"
+  },
+  {
+    "id": "E48000018-006",
+    "forum_code": "E48000018",
+    "name": "Industrial accidents",
+    "source": "Lancashire Community Risk Register Summary 2025"
+  },
+  {
+    "id": "E48000019-001",
+    "forum_code": "E48000019",
+    "name": "Flooding",
+    "source": "Leicester, Leicestershire & Rutland CRR September 2026"
+  },
+  {
+    "id": "E48000019-002",
+    "forum_code": "E48000019",
+    "name": "Severe weather",
+    "source": "Leicester, Leicestershire & Rutland CRR September 2026"
+  },
+  {
+    "id": "E48000019-003",
+    "forum_code": "E48000019",
+    "name": "Loss of utilities",
+    "source": "Leicester, Leicestershire & Rutland CRR September 2026"
+  },
+  {
+    "id": "E48000019-004",
+    "forum_code": "E48000019",
+    "name": "Disease outbreaks",
+    "source": "Leicester, Leicestershire & Rutland CRR September 2026"
+  },
+  {
+    "id": "E48000019-005",
+    "forum_code": "E48000019",
+    "name": "Cyber attacks",
+    "source": "Leicester, Leicestershire & Rutland CRR September 2026"
+  },
+  {
+    "id": "E48000019-006",
+    "forum_code": "E48000019",
+    "name": "Major transport incidents",
+    "source": "Leicester, Leicestershire & Rutland CRR September 2026"
+  },
+  {
+    "id": "E48000019-007",
+    "forum_code": "E48000019",
+    "name": "Terrorism",
+    "source": "Leicester, Leicestershire & Rutland CRR September 2026"
+  },
+  {
+    "id": "E48000020-001",
+    "forum_code": "E48000020",
+    "name": "Coastal flooding",
+    "source": "Lincolnshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000020-002",
+    "forum_code": "E48000020",
+    "name": "River and surface water flooding",
+    "source": "Lincolnshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000020-003",
+    "forum_code": "E48000020",
+    "name": "Emerging infectious diseases",
+    "source": "Lincolnshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000020-004",
+    "forum_code": "E48000020",
+    "name": "Cyber attacks",
+    "source": "Lincolnshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000020-005",
+    "forum_code": "E48000020",
+    "name": "Terrorism",
+    "source": "Lincolnshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000020-006",
+    "forum_code": "E48000020",
+    "name": "Loss of gas or electricity",
+    "source": "Lincolnshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000020-007",
+    "forum_code": "E48000020",
+    "name": "Pandemic",
+    "source": "Lincolnshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000020-008",
+    "forum_code": "E48000020",
+    "name": "Extreme cold weather",
+    "source": "Lincolnshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000020-009",
+    "forum_code": "E48000020",
+    "name": "Heatwave",
+    "source": "Lincolnshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000021-001",
+    "forum_code": "E48000021",
+    "code": "R50a",
+    "name": "Failure of national electricity transmission system",
+    "likelihood": 3,
+    "impact": 5,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-002",
+    "forum_code": "E48000021",
+    "code": "R78",
+    "name": "Pandemic",
+    "likelihood": 4,
+    "impact": 5,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-003",
+    "forum_code": "E48000021",
+    "code": "R76",
+    "name": "Drought",
+    "likelihood": 2,
+    "impact": 5,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-004",
+    "forum_code": "E48000021",
+    "code": "R71",
+    "name": "Severe space weather",
+    "likelihood": 4,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-005",
+    "forum_code": "E48000021",
+    "code": "R73",
+    "name": "High temperatures and heatwaves",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-006",
+    "forum_code": "E48000021",
+    "code": "R74",
+    "name": "Low temperatures and snow",
+    "likelihood": 4,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-007",
+    "forum_code": "E48000021",
+    "code": "R75b",
+    "name": "Fluvial flooding",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-008",
+    "forum_code": "E48000021",
+    "code": "R75c",
+    "name": "Surface water flooding",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-009",
+    "forum_code": "E48000021",
+    "code": "R79",
+    "name": "Outbreak of emerging infectious disease",
+    "likelihood": 4,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-010",
+    "forum_code": "E48000021",
+    "code": "R75a",
+    "name": "Coastal flooding",
+    "likelihood": 3,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-011",
+    "forum_code": "E48000021",
+    "code": "R72",
+    "name": "Storms",
+    "likelihood": 4,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-012",
+    "forum_code": "E48000021",
+    "code": "R77",
+    "name": "Poor air quality",
+    "likelihood": 3,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-013",
+    "forum_code": "E48000021",
+    "code": "R66",
+    "name": "Wildfires",
+    "likelihood": 4,
+    "impact": 2,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-014",
+    "forum_code": "E48000021",
+    "code": "R68",
+    "name": "Earthquake",
+    "likelihood": 1,
+    "impact": 1,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-015",
+    "forum_code": "E48000021",
+    "code": "R62",
+    "name": "Reservoir or dam collapse",
+    "likelihood": 1,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-016",
+    "forum_code": "E48000021",
+    "code": "R63",
+    "name": "Water infrastructure failure",
+    "likelihood": 1,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-017",
+    "forum_code": "E48000021",
+    "code": "R51",
+    "name": "Gas supply infrastructure failure",
+    "likelihood": 2,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-018",
+    "forum_code": "E48000021",
+    "code": "R50b",
+    "name": "Regional electricity network failure",
+    "likelihood": 2,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-019",
+    "forum_code": "E48000021",
+    "code": "R49",
+    "name": "Fixed and mobile communication failure",
+    "likelihood": 3,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-020",
+    "forum_code": "E48000021",
+    "code": "R40",
+    "name": "Rail accident",
+    "likelihood": 3,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-021",
+    "forum_code": "E48000021",
+    "code": "R82",
+    "name": "Public disorder",
+    "likelihood": 3,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-022",
+    "forum_code": "E48000021",
+    "code": "R87",
+    "name": "Reception of British nationals from overseas",
+    "likelihood": 4,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-023",
+    "forum_code": "E48000021",
+    "code": "R80a",
+    "name": "Foot and mouth disease outbreak",
+    "likelihood": 2,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-024",
+    "forum_code": "E48000021",
+    "code": "R64",
+    "name": "Food supply contamination",
+    "likelihood": 4,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-025",
+    "forum_code": "E48000021",
+    "code": "R55b",
+    "name": "Critical financial market infrastructure failure",
+    "likelihood": 5,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-026",
+    "forum_code": "E48000021",
+    "code": "T1",
+    "name": "Large-scale CBRN attacks",
+    "likelihood": 3,
+    "impact": 5,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-027",
+    "forum_code": "E48000021",
+    "code": "T2",
+    "name": "Attacks on infrastructure",
+    "likelihood": 3,
+    "impact": 4,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-028",
+    "forum_code": "E48000021",
+    "code": "T3",
+    "name": "Attacks on transport",
+    "likelihood": 4,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-029",
+    "forum_code": "E48000021",
+    "code": "T4",
+    "name": "Attacks on publicly accessible locations",
+    "likelihood": 5,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-030",
+    "forum_code": "E48000021",
+    "code": "T5",
+    "name": "Medium-scale CBRN attacks",
+    "likelihood": 4,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-031",
+    "forum_code": "E48000021",
+    "code": "T6",
+    "name": "Cyber attacks",
+    "likelihood": 4,
+    "impact": 3,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000021-032",
+    "forum_code": "E48000021",
+    "code": "T7",
+    "name": "Smaller-scale CBRN attacks",
+    "likelihood": 4,
+    "impact": 2,
+    "source": "London Risk Assessment v15 (selected rows)"
+  },
+  {
+    "id": "E48000022-001",
+    "forum_code": "E48000022",
+    "name": "Flooding",
+    "source": "Merseyside Community Risk Register 2026"
+  },
+  {
+    "id": "E48000022-002",
+    "forum_code": "E48000022",
+    "name": "Severe weather",
+    "source": "Merseyside Community Risk Register 2026"
+  },
+  {
+    "id": "E48000022-003",
+    "forum_code": "E48000022",
+    "name": "Pandemic infectious disease",
+    "source": "Merseyside Community Risk Register 2026"
+  },
+  {
+    "id": "E48000022-004",
+    "forum_code": "E48000022",
+    "name": "Industrial accidents",
+    "source": "Merseyside Community Risk Register 2026"
+  },
+  {
+    "id": "E48000022-005",
+    "forum_code": "E48000022",
+    "name": "Transport disruption",
+    "source": "Merseyside Community Risk Register 2026"
+  },
+  {
+    "id": "E48000022-006",
+    "forum_code": "E48000022",
+    "name": "Loss of infrastructure",
+    "source": "Merseyside Community Risk Register 2026"
+  },
+  {
+    "id": "E48000023-001",
+    "forum_code": "E48000023",
+    "name": "Flooding",
+    "source": "Norfolk Community Risk Register (online)"
+  },
+  {
+    "id": "E48000023-002",
+    "forum_code": "E48000023",
+    "name": "Severe weather",
+    "source": "Norfolk Community Risk Register (online)"
+  },
+  {
+    "id": "E48000023-003",
+    "forum_code": "E48000023",
+    "name": "Human infectious diseases",
+    "source": "Norfolk Community Risk Register (online)"
+  },
+  {
+    "id": "E48000023-004",
+    "forum_code": "E48000023",
+    "name": "Loss of critical infrastructure",
+    "source": "Norfolk Community Risk Register (online)"
+  },
+  {
+    "id": "E48000024-001",
+    "forum_code": "E48000024",
+    "name": "Flooding",
+    "source": "York & North Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000024-002",
+    "forum_code": "E48000024",
+    "name": "Severe weather",
+    "source": "York & North Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000024-003",
+    "forum_code": "E48000024",
+    "name": "Pandemics",
+    "source": "York & North Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000024-004",
+    "forum_code": "E48000024",
+    "name": "Loss of essential services",
+    "source": "York & North Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000024-005",
+    "forum_code": "E48000024",
+    "name": "Industrial incidents",
+    "source": "York & North Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000024-006",
+    "forum_code": "E48000024",
+    "name": "Transport accidents",
+    "source": "York & North Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000024-007",
+    "forum_code": "E48000024",
+    "name": "Animal disease",
+    "source": "York & North Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000025-001",
+    "forum_code": "E48000025",
+    "name": "Flooding",
+    "source": "Northamptonshire Community Risk Register 2024"
+  },
+  {
+    "id": "E48000025-002",
+    "forum_code": "E48000025",
+    "name": "Severe weather",
+    "source": "Northamptonshire Community Risk Register 2024"
+  },
+  {
+    "id": "E48000025-003",
+    "forum_code": "E48000025",
+    "name": "Pandemic influenza",
+    "source": "Northamptonshire Community Risk Register 2024"
+  },
+  {
+    "id": "E48000025-004",
+    "forum_code": "E48000025",
+    "name": "Industrial incidents",
+    "source": "Northamptonshire Community Risk Register 2024"
+  },
+  {
+    "id": "E48000025-005",
+    "forum_code": "E48000025",
+    "name": "Transport accidents",
+    "source": "Northamptonshire Community Risk Register 2024"
+  },
+  {
+    "id": "E48000025-006",
+    "forum_code": "E48000025",
+    "name": "Loss of critical infrastructure",
+    "source": "Northamptonshire Community Risk Register 2024"
+  },
+  {
+    "id": "E48000025-007",
+    "forum_code": "E48000025",
+    "name": "Animal disease",
+    "source": "Northamptonshire Community Risk Register 2024"
+  },
+  {
+    "id": "E48000026-001",
+    "forum_code": "E48000026",
+    "name": "Flooding",
+    "source": "Northumbria Community Risk Register (live document)"
+  },
+  {
+    "id": "E48000026-002",
+    "forum_code": "E48000026",
+    "name": "Severe weather",
+    "source": "Northumbria Community Risk Register (live document)"
+  },
+  {
+    "id": "E48000026-003",
+    "forum_code": "E48000026",
+    "name": "Loss of utilities",
+    "source": "Northumbria Community Risk Register (live document)"
+  },
+  {
+    "id": "E48000026-004",
+    "forum_code": "E48000026",
+    "name": "Human disease outbreak",
+    "source": "Northumbria Community Risk Register (live document)"
+  },
+  {
+    "id": "E48000026-005",
+    "forum_code": "E48000026",
+    "name": "Industrial accidents",
+    "source": "Northumbria Community Risk Register (live document)"
+  },
+  {
+    "id": "E48000026-006",
+    "forum_code": "E48000026",
+    "name": "Transport incidents",
+    "source": "Northumbria Community Risk Register (live document)"
+  },
+  {
+    "id": "E48000026-007",
+    "forum_code": "E48000026",
+    "name": "Animal disease",
+    "source": "Northumbria Community Risk Register (live document)"
+  },
+  {
+    "id": "E48000027-001",
+    "forum_code": "E48000027",
+    "name": "Flooding",
+    "source": "Nottingham & Nottinghamshire Community Risk Register November 2025"
+  },
+  {
+    "id": "E48000027-002",
+    "forum_code": "E48000027",
+    "name": "Severe weather",
+    "source": "Nottingham & Nottinghamshire Community Risk Register November 2025"
+  },
+  {
+    "id": "E48000027-003",
+    "forum_code": "E48000027",
+    "name": "Pandemic and human disease",
+    "source": "Nottingham & Nottinghamshire Community Risk Register November 2025"
+  },
+  {
+    "id": "E48000027-004",
+    "forum_code": "E48000027",
+    "name": "Loss of utilities",
+    "source": "Nottingham & Nottinghamshire Community Risk Register November 2025"
+  },
+  {
+    "id": "E48000027-005",
+    "forum_code": "E48000027",
+    "name": "Industrial incidents",
+    "source": "Nottingham & Nottinghamshire Community Risk Register November 2025"
+  },
+  {
+    "id": "E48000027-006",
+    "forum_code": "E48000027",
+    "name": "Transport accidents",
+    "source": "Nottingham & Nottinghamshire Community Risk Register November 2025"
+  },
+  {
+    "id": "E48000027-007",
+    "forum_code": "E48000027",
+    "name": "Animal diseases",
+    "source": "Nottingham & Nottinghamshire Community Risk Register November 2025"
+  },
+  {
+    "id": "E48000028-001",
+    "forum_code": "E48000028",
+    "name": "Flooding",
+    "source": "South Yorkshire Community Risk Register February 2022"
+  },
+  {
+    "id": "E48000028-002",
+    "forum_code": "E48000028",
+    "name": "Severe weather",
+    "source": "South Yorkshire Community Risk Register February 2022"
+  },
+  {
+    "id": "E48000028-003",
+    "forum_code": "E48000028",
+    "name": "Pandemic and human disease",
+    "source": "South Yorkshire Community Risk Register February 2022"
+  },
+  {
+    "id": "E48000029-001",
+    "forum_code": "E48000029",
+    "name": "International terrorist attack with strategic implications",
+    "code": "1",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 2",
+    "rating": "Low",
+    "likelihood": 5,
+    "impact": 1
+  },
+  {
+    "id": "E48000029-002",
+    "forum_code": "E48000029",
+    "name": "Northern Ireland related terrorism",
+    "code": "2",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 2",
+    "rating": "Moderate",
+    "likelihood": 5,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-003",
+    "forum_code": "E48000029",
+    "name": "Terrorist attacks in publicly accessible locations",
+    "code": "3",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 2",
+    "rating": "Severe",
+    "likelihood": 5,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-004",
+    "forum_code": "E48000029",
+    "name": "Terrorist attacks on transport",
+    "code": "4",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 2",
+    "rating": "Severe",
+    "likelihood": 4,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-005",
+    "forum_code": "E48000029",
+    "name": "Strategic hostage taking",
+    "code": "5",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 3",
+    "rating": "Moderate",
+    "likelihood": 2,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-006",
+    "forum_code": "E48000029",
+    "name": "Assassination of high-profile figure",
+    "code": "6",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 3",
+    "rating": "Moderate",
+    "likelihood": 5,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-007",
+    "forum_code": "E48000029",
+    "name": "Smaller-scale CBRN attacks",
+    "code": "7",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 3",
+    "rating": "Moderate",
+    "likelihood": 4,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-008",
+    "forum_code": "E48000029",
+    "name": "Medium-scale CBRN attacks",
+    "code": "8",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 3",
+    "rating": "Critical",
+    "likelihood": 4,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-009",
+    "forum_code": "E48000029",
+    "name": "Larger-scale CBRN attacks",
+    "code": "9",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 3",
+    "rating": "Critical",
+    "likelihood": 3,
+    "impact": 5
+  },
+  {
+    "id": "E48000029-010",
+    "forum_code": "E48000029",
+    "name": "Conventional attacks on infrastructure",
+    "code": "10",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 4",
+    "rating": "Critical",
+    "likelihood": 3,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-011",
+    "forum_code": "E48000029",
+    "name": "Cyber-attacks on infrastructure",
+    "code": "11",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 4",
+    "rating": "Severe",
+    "likelihood": 4,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-012",
+    "forum_code": "E48000029",
+    "name": "Disruption to global oil trade routes",
+    "code": "12",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 5",
+    "rating": "Severe",
+    "likelihood": 3,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-013",
+    "forum_code": "E48000029",
+    "name": "Insolvency of supplier(s) of critical services to the public sector",
+    "code": "13",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 5",
+    "rating": "Moderate",
+    "likelihood": 3,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-014",
+    "forum_code": "E48000029",
+    "name": "Insolvency affecting fuel supply",
+    "code": "14",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 6",
+    "rating": "Low",
+    "likelihood": 4,
+    "impact": 1
+  },
+  {
+    "id": "E48000029-015",
+    "forum_code": "E48000029",
+    "name": "Rail accident",
+    "code": "15",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 6",
+    "rating": "Moderate",
+    "likelihood": 2,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-016",
+    "forum_code": "E48000029",
+    "name": "Aviation collision",
+    "code": "16",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 6",
+    "rating": "Moderate",
+    "likelihood": 1,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-017",
+    "forum_code": "E48000029",
+    "name": "Disruption of space-based services",
+    "code": "17",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 7",
+    "rating": "Moderate",
+    "likelihood": 2,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-018",
+    "forum_code": "E48000029",
+    "name": "Loss of Positioning, Navigation and Timing (PNT) services",
+    "code": "18",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 7",
+    "rating": "Severe",
+    "likelihood": 2,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-019",
+    "forum_code": "E48000029",
+    "name": "Simultaneous loss of all fixed and mobile forms of communication",
+    "code": "19",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 7",
+    "rating": "Severe",
+    "likelihood": 3,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-020",
+    "forum_code": "E48000029",
+    "name": "Failure of the National Electricity Transmission System (NETS)",
+    "code": "20a",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 8",
+    "rating": "Critical",
+    "likelihood": 3,
+    "impact": 5
+  },
+  {
+    "id": "E48000029-021",
+    "forum_code": "E48000029",
+    "name": "Regional failure of the electricity network",
+    "code": "20b",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 8",
+    "rating": "Severe",
+    "likelihood": 3,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-022",
+    "forum_code": "E48000029",
+    "name": "Failure of gas supply infrastructure",
+    "code": "21",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 8",
+    "rating": "Critical",
+    "likelihood": 3,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-023",
+    "forum_code": "E48000029",
+    "name": "Civil nuclear accident",
+    "code": "22",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 9",
+    "rating": "Severe",
+    "likelihood": 1,
+    "impact": 5
+  },
+  {
+    "id": "E48000029-024",
+    "forum_code": "E48000029",
+    "name": "Radiation release from overseas nuclear site",
+    "code": "23",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 10",
+    "rating": "Severe",
+    "likelihood": 1,
+    "impact": 5
+  },
+  {
+    "id": "E48000029-025",
+    "forum_code": "E48000029",
+    "name": "Radiation exposure from transported, stolen or lost goods",
+    "code": "24",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 10",
+    "rating": "Low",
+    "likelihood": 1,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-026",
+    "forum_code": "E48000029",
+    "name": "Technological failure at a systemically important retail bank",
+    "code": "25a",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 11",
+    "rating": "Severe",
+    "likelihood": 3,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-027",
+    "forum_code": "E48000029",
+    "name": "Technological failure at a UK critical financial market infrastructure (FMI)",
+    "code": "25b",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 11",
+    "rating": "Severe",
+    "likelihood": 5,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-028",
+    "forum_code": "E48000029",
+    "name": "Accidental fire or explosion at an onshore major hazard (COMAH) site",
+    "code": "26",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 12",
+    "rating": "Moderate",
+    "likelihood": 1,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-029",
+    "forum_code": "E48000029",
+    "name": "Accidental large toxic chemical release from an onshore major hazard (COMAH) site",
+    "code": "27",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 12",
+    "rating": "Moderate",
+    "likelihood": 1,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-030",
+    "forum_code": "E48000029",
+    "name": "Accidental work- related (laboratory) release of a hazardous pathogen",
+    "code": "28",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 12",
+    "rating": "Low",
+    "likelihood": 1,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-031",
+    "forum_code": "E48000029",
+    "name": "Reservoir/dam collapse",
+    "code": "29",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 12",
+    "rating": "Severe",
+    "likelihood": 2,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-032",
+    "forum_code": "E48000029",
+    "name": "Water infrastructure failure or loss of drinking water",
+    "code": "30",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 13",
+    "rating": "Low",
+    "likelihood": 2,
+    "impact": 1
+  },
+  {
+    "id": "E48000029-033",
+    "forum_code": "E48000029",
+    "name": "Food supply contamination",
+    "code": "31",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 13",
+    "rating": "Severe",
+    "likelihood": 4,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-034",
+    "forum_code": "E48000029",
+    "name": "Major fire",
+    "code": "32",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 13",
+    "rating": "Moderate",
+    "likelihood": 2,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-035",
+    "forum_code": "E48000029",
+    "name": "Volcanic eruption",
+    "code": "33",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 14",
+    "rating": "Severe",
+    "likelihood": 4,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-036",
+    "forum_code": "E48000029",
+    "name": "Earthquake",
+    "code": "34",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 15",
+    "rating": "Low",
+    "likelihood": 1,
+    "impact": 1
+  },
+  {
+    "id": "E48000029-037",
+    "forum_code": "E48000029",
+    "name": "Humanitarian crisis overseas - natural hazard event",
+    "code": "35",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 15",
+    "rating": "Severe",
+    "likelihood": 3,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-038",
+    "forum_code": "E48000029",
+    "name": "Disaster response in the Overseas Territories",
+    "code": "36",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 16",
+    "rating": "Severe",
+    "likelihood": 5,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-039",
+    "forum_code": "E48000029",
+    "name": "Severe space weather",
+    "code": "37",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 16",
+    "rating": "Critical",
+    "likelihood": 4,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-040",
+    "forum_code": "E48000029",
+    "name": "Storms",
+    "code": "38",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 17",
+    "rating": "Severe",
+    "likelihood": 4,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-041",
+    "forum_code": "E48000029",
+    "name": "High temperatures and heatwaves",
+    "code": "39",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 17",
+    "rating": "Critical",
+    "likelihood": 3,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-042",
+    "forum_code": "E48000029",
+    "name": "Low temperatures and snow",
+    "code": "40",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 18",
+    "rating": "Critical",
+    "likelihood": 4,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-043",
+    "forum_code": "E48000029",
+    "name": "Fluvial flooding",
+    "code": "41",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 18",
+    "rating": "Critical",
+    "likelihood": 3,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-044",
+    "forum_code": "E48000029",
+    "name": "Drought",
+    "code": "42",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 19",
+    "rating": "Moderate",
+    "likelihood": 2,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-045",
+    "forum_code": "E48000029",
+    "name": "Poor air quality",
+    "code": "43",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 19",
+    "rating": "Severe",
+    "likelihood": 3,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-046",
+    "forum_code": "E48000029",
+    "name": "Pandemic",
+    "code": "44",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 20",
+    "rating": "Critical",
+    "likelihood": 4,
+    "impact": 5
+  },
+  {
+    "id": "E48000029-047",
+    "forum_code": "E48000029",
+    "name": "Outbreak of an emerging infectious disease",
+    "code": "45",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 20",
+    "rating": "Critical",
+    "likelihood": 4,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-048",
+    "forum_code": "E48000029",
+    "name": "Animal disease - major outbreak of Foot and Mouth Disease",
+    "code": "46a",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 21",
+    "rating": "Severe",
+    "likelihood": 2,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-049",
+    "forum_code": "E48000029",
+    "name": "Animal disease - major outbreak of highly pathogenic avian influenza",
+    "code": "46b",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 21",
+    "rating": "Severe",
+    "likelihood": 3,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-050",
+    "forum_code": "E48000029",
+    "name": "Major outbreak of plant pest - Xylella fastidiosa",
+    "code": "47a",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 23",
+    "rating": "Low",
+    "likelihood": 5,
+    "impact": 1
+  },
+  {
+    "id": "E48000029-051",
+    "forum_code": "E48000029",
+    "name": "Major outbreak of plant pest - Agrilus planipennis",
+    "code": "47b",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 23",
+    "rating": "Moderate",
+    "likelihood": 4,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-052",
+    "forum_code": "E48000029",
+    "name": "Public disorder",
+    "code": "48",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 23",
+    "rating": "Moderate",
+    "likelihood": 3,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-053",
+    "forum_code": "E48000029",
+    "name": "Industrial action",
+    "code": "49",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 24",
+    "rating": "Moderate",
+    "likelihood": 3,
+    "impact": 2
+  },
+  {
+    "id": "E48000029-054",
+    "forum_code": "E48000029",
+    "name": "Reception and integration of British Nationals arriving from overseas",
+    "code": "50",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 24",
+    "rating": "Severe",
+    "likelihood": 4,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-055",
+    "forum_code": "E48000029",
+    "name": "Deliberate disruption of UK space systems and space-based services",
+    "code": "51",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 24",
+    "rating": "Critical",
+    "likelihood": 3,
+    "impact": 4
+  },
+  {
+    "id": "E48000029-056",
+    "forum_code": "E48000029",
+    "name": "Attack on a UK ally or partner outside NATO or a mutual security agreement requiring international assistance",
+    "code": "52",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 25",
+    "rating": "Severe",
+    "likelihood": 5,
+    "impact": 3
+  },
+  {
+    "id": "E48000029-057",
+    "forum_code": "E48000029",
+    "name": "Nuclear miscalculation not involving the UK or its allies",
+    "code": "53",
+    "source": "Staffordshire and Stoke-on-Trent CRR (April 2025), p. 25",
+    "rating": "Severe",
+    "likelihood": 5,
+    "impact": 3
+  },
+  {
+    "id": "E48000030-001",
+    "forum_code": "E48000030",
+    "name": "Flooding",
+    "source": "Suffolk Community Risk Register 2026"
+  },
+  {
+    "id": "E48000030-002",
+    "forum_code": "E48000030",
+    "name": "Severe weather",
+    "source": "Suffolk Community Risk Register 2026"
+  },
+  {
+    "id": "E48000030-003",
+    "forum_code": "E48000030",
+    "name": "Pandemic and infectious diseases",
+    "source": "Suffolk Community Risk Register 2026"
+  },
+  {
+    "id": "E48000030-004",
+    "forum_code": "E48000030",
+    "name": "Industrial accidents",
+    "source": "Suffolk Community Risk Register 2026"
+  },
+  {
+    "id": "E48000030-005",
+    "forum_code": "E48000030",
+    "name": "Transport incidents",
+    "source": "Suffolk Community Risk Register 2026"
+  },
+  {
+    "id": "E48000030-006",
+    "forum_code": "E48000030",
+    "name": "Failure of essential services",
+    "source": "Suffolk Community Risk Register 2026"
+  },
+  {
+    "id": "E48000031-001",
+    "forum_code": "E48000031",
+    "code": "R036",
+    "name": "Major Social Care Provider Failure",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 3"
+  },
+  {
+    "id": "E48000031-002",
+    "forum_code": "E48000031",
+    "code": "R038",
+    "name": "Insolvency affecting fuel supply",
+    "rating": "Low",
+    "source": "Surrey Community Risk Register 2026 v1, p. 4"
+  },
+  {
+    "id": "E48000031-003",
+    "forum_code": "E48000031",
+    "code": "R040",
+    "name": "Rail accident",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 4"
+  },
+  {
+    "id": "E48000031-004",
+    "forum_code": "E48000031",
+    "code": "R044",
+    "name": "Accident involving high consequence dangerous goods",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 5"
+  },
+  {
+    "id": "E48000031-005",
+    "forum_code": "E48000031",
+    "code": "R045",
+    "name": "Aviation collision",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 5"
+  },
+  {
+    "id": "E48000031-006",
+    "forum_code": "E48000031",
+    "code": "R046",
+    "name": "Malicious drone incident",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 5"
+  },
+  {
+    "id": "E48000031-007",
+    "forum_code": "E48000031",
+    "code": "R049",
+    "name": "Simultaneous loss of all fixed and mobile forms of communication",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 6"
+  },
+  {
+    "id": "E48000031-008",
+    "forum_code": "E48000031",
+    "code": "R050a",
+    "name": "Failure of the National Electricity Transmission System (NETS)",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 6"
+  },
+  {
+    "id": "E48000031-009",
+    "forum_code": "E48000031",
+    "code": "R051",
+    "name": "Failure of Gas Supply infrastructure",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 6"
+  },
+  {
+    "id": "E48000031-010",
+    "forum_code": "E48000031",
+    "code": "R053",
+    "name": "Radiation release from overseas nuclear site",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 7"
+  },
+  {
+    "id": "E48000031-011",
+    "forum_code": "E48000031",
+    "code": "R054",
+    "name": "Radiation exposure from transported, stolen or lost goods",
+    "rating": "Low",
+    "source": "Surrey Community Risk Register 2026 v1, p. 7"
+  },
+  {
+    "id": "E48000031-012",
+    "forum_code": "E48000031",
+    "code": "R056",
+    "name": "Accidental fire or explosion at an onshore major hazard (COMAH) site",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 7"
+  },
+  {
+    "id": "E48000031-013",
+    "forum_code": "E48000031",
+    "code": "R057",
+    "name": "Accidental large toxic chemical release from an onshore major hazard (COMAH) site",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 8"
+  },
+  {
+    "id": "E48000031-014",
+    "forum_code": "E48000031",
+    "code": "R060",
+    "name": "Accidental fire or explosion at an onshore major accident hazard pipeline",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 8"
+  },
+  {
+    "id": "E48000031-015",
+    "forum_code": "E48000031",
+    "code": "R061",
+    "name": "Accidental work- related (laboratory) release of a hazardous pathogen",
+    "rating": "Low",
+    "source": "Surrey Community Risk Register 2026 v1, p. 9"
+  },
+  {
+    "id": "E48000031-016",
+    "forum_code": "E48000031",
+    "code": "R062",
+    "name": "Reservoir / Dam Collapse",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 10"
+  },
+  {
+    "id": "E48000031-017",
+    "forum_code": "E48000031",
+    "code": "R063",
+    "name": "Water infrastructure failure or loss of drinking water",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 11"
+  },
+  {
+    "id": "E48000031-018",
+    "forum_code": "E48000031",
+    "code": "R064",
+    "name": "Food supply contamination",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 11"
+  },
+  {
+    "id": "E48000031-019",
+    "forum_code": "E48000031",
+    "code": "R065",
+    "name": "Major Fire",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 12"
+  },
+  {
+    "id": "E48000031-020",
+    "forum_code": "E48000031",
+    "code": "R066",
+    "name": "Wildfire",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 13"
+  },
+  {
+    "id": "E48000031-021",
+    "forum_code": "E48000031",
+    "code": "R067",
+    "name": "Volcanic Eruption",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 14"
+  },
+  {
+    "id": "E48000031-022",
+    "forum_code": "E48000031",
+    "code": "R068",
+    "name": "Earthquake",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 14"
+  },
+  {
+    "id": "E48000031-023",
+    "forum_code": "E48000031",
+    "code": "R071",
+    "name": "Severe space weather",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 14"
+  },
+  {
+    "id": "E48000031-024",
+    "forum_code": "E48000031",
+    "code": "R072",
+    "name": "Storms",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 14"
+  },
+  {
+    "id": "E48000031-025",
+    "forum_code": "E48000031",
+    "code": "R073",
+    "name": "High temperatures and heatwaves",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 15"
+  },
+  {
+    "id": "E48000031-026",
+    "forum_code": "E48000031",
+    "code": "R074",
+    "name": "Low temperatures and snow",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 15"
+  },
+  {
+    "id": "E48000031-027",
+    "forum_code": "E48000031",
+    "code": "R075b",
+    "name": "Fluvial Flooding",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 16"
+  },
+  {
+    "id": "E48000031-028",
+    "forum_code": "E48000031",
+    "code": "R075c",
+    "name": "Surface Water Flooding",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 17"
+  },
+  {
+    "id": "E48000031-029",
+    "forum_code": "E48000031",
+    "code": "R076",
+    "name": "Drought",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 17"
+  },
+  {
+    "id": "E48000031-030",
+    "forum_code": "E48000031",
+    "code": "R077",
+    "name": "Poor air quality",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 18"
+  },
+  {
+    "id": "E48000031-031",
+    "forum_code": "E48000031",
+    "code": "R078",
+    "name": "Pandemic",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 18"
+  },
+  {
+    "id": "E48000031-032",
+    "forum_code": "E48000031",
+    "code": "R079",
+    "name": "Outbreak of an emerging infectious disease",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 19"
+  },
+  {
+    "id": "E48000031-033",
+    "forum_code": "E48000031",
+    "code": "R080a",
+    "name": "Major Outbreak of Foot and Mouth Disease",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 20"
+  },
+  {
+    "id": "E48000031-034",
+    "forum_code": "E48000031",
+    "code": "R080b",
+    "name": "Major Outbreak of highly pathogenic Avian Influenza (HPAI)",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 20"
+  },
+  {
+    "id": "E48000031-035",
+    "forum_code": "E48000031",
+    "code": "R080c",
+    "name": "Major Outbreak of African Horse Sickness",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 20"
+  },
+  {
+    "id": "E48000031-036",
+    "forum_code": "E48000031",
+    "code": "R080d",
+    "name": "Major Outbreak of African Swine Fever",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 20"
+  },
+  {
+    "id": "E48000031-037",
+    "forum_code": "E48000031",
+    "code": "R081a",
+    "name": "Major outbreak of plant pest - Xylella fastidiosa",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 21"
+  },
+  {
+    "id": "E48000031-038",
+    "forum_code": "E48000031",
+    "code": "R081b",
+    "name": "Major outbreak of plant pest - Agrilus planipennis",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 21"
+  },
+  {
+    "id": "E48000031-039",
+    "forum_code": "E48000031",
+    "code": "R082",
+    "name": "Public Disorder",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 21"
+  },
+  {
+    "id": "E48000031-040",
+    "forum_code": "E48000031",
+    "code": "R083",
+    "name": "Industrial action - public transport",
+    "rating": "Low",
+    "source": "Surrey Community Risk Register 2026 v1, p. 21"
+  },
+  {
+    "id": "E48000031-041",
+    "forum_code": "E48000031",
+    "code": "R084",
+    "name": "Industrial Action - firefighters",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 22"
+  },
+  {
+    "id": "E48000031-042",
+    "forum_code": "E48000031",
+    "code": "R085",
+    "name": "Industrial action - prison staff",
+    "rating": "Low",
+    "source": "Surrey Community Risk Register 2026 v1, p. 22"
+  },
+  {
+    "id": "E48000031-043",
+    "forum_code": "E48000031",
+    "code": "R086",
+    "name": "Industrial Action - fuel supply",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 22"
+  },
+  {
+    "id": "E48000031-044",
+    "forum_code": "E48000031",
+    "code": "R087",
+    "name": "Reception and integration of British Nationals arriving from overseas",
+    "rating": "High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 23"
+  },
+  {
+    "id": "E48000031-045",
+    "forum_code": "E48000031",
+    "code": "R99b",
+    "name": "National Disruption to Data Infrastructure",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 23"
+  },
+  {
+    "id": "E48000031-046",
+    "forum_code": "E48000031",
+    "code": "R100",
+    "name": "Digital Technology Resilience Failure",
+    "rating": "Very High",
+    "source": "Surrey Community Risk Register 2026 v1, p. 23"
+  },
+  {
+    "id": "E48000031-047",
+    "forum_code": "E48000031",
+    "code": "R101",
+    "name": "Significant disruption to the operation of the Criminal Justice System",
+    "rating": "Medium",
+    "source": "Surrey Community Risk Register 2026 v1, p. 24"
+  },
+  {
+    "id": "E48000032-001",
+    "forum_code": "E48000032",
+    "name": "Pandemic",
+    "visualRating": 5,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 10"
+  },
+  {
+    "id": "E48000032-002",
+    "forum_code": "E48000032",
+    "name": "Outbreak of emerging infectious disease",
+    "visualRating": 4.5,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 10"
+  },
+  {
+    "id": "E48000032-003",
+    "forum_code": "E48000032",
+    "name": "Major outbreak of highly pathogenic avian influenza",
+    "visualRating": 3.6,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 10"
+  },
+  {
+    "id": "E48000032-004",
+    "forum_code": "E48000032",
+    "name": "Major outbreak of foot and mouth disease",
+    "visualRating": 3.6,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 10"
+  },
+  {
+    "id": "E48000032-005",
+    "forum_code": "E48000032",
+    "name": "Flooding",
+    "visualRating": 4.8,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 16"
+  },
+  {
+    "id": "E48000032-006",
+    "forum_code": "E48000032",
+    "name": "High temperatures and heatwaves",
+    "visualRating": 4.3,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 16"
+  },
+  {
+    "id": "E48000032-007",
+    "forum_code": "E48000032",
+    "name": "Low temperatures and snow",
+    "visualRating": 4.8,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 16"
+  },
+  {
+    "id": "E48000032-008",
+    "forum_code": "E48000032",
+    "name": "Storms",
+    "visualRating": 4.1,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 16"
+  },
+  {
+    "id": "E48000032-009",
+    "forum_code": "E48000032",
+    "name": "Wildfire",
+    "visualRating": 3.3,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 16"
+  },
+  {
+    "id": "E48000032-010",
+    "forum_code": "E48000032",
+    "name": "Coastal pollution",
+    "visualRating": 1.3,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 30"
+  },
+  {
+    "id": "E48000032-011",
+    "forum_code": "E48000032",
+    "name": "Transport accidents",
+    "visualRating": 2.9,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 30"
+  },
+  {
+    "id": "E48000032-012",
+    "forum_code": "E48000032",
+    "name": "Major fire",
+    "visualRating": 3.2,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 30"
+  },
+  {
+    "id": "E48000032-013",
+    "forum_code": "E48000032",
+    "name": "Loss of critical national infrastructure",
+    "visualRating": 4.1,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 30"
+  },
+  {
+    "id": "E48000032-014",
+    "forum_code": "E48000032",
+    "name": "Fuel shortages",
+    "visualRating": 3.6,
+    "source": "Sussex Community Risk Register, graphical 1–5 scale, p. 42"
+  },
+  {
+    "id": "E48000032-015",
+    "forum_code": "E48000032",
+    "name": "Climate change",
+    "source": "Sussex Community Risk Register, p. 17",
+    "note": "Described in the register but not positioned on its published graphical ranking scale."
+  },
+  {
+    "id": "E48000032-016",
+    "forum_code": "E48000032",
+    "name": "Industrial accidents",
+    "source": "Sussex Community Risk Register, p. 36",
+    "note": "Described in the register but not positioned on its published graphical ranking scale."
+  },
+  {
+    "id": "E48000032-017",
+    "forum_code": "E48000032",
+    "name": "Cyber security",
+    "source": "Sussex Community Risk Register, p. 46",
+    "note": "Described in the register but not positioned on its published graphical ranking scale."
+  },
+  {
+    "id": "E48000032-018",
+    "forum_code": "E48000032",
+    "name": "Terrorism",
+    "source": "Sussex Community Risk Register, p. 48",
+    "note": "Described in the register but not positioned on its published graphical ranking scale."
+  },
+  {
+    "id": "E48000033-001",
+    "forum_code": "E48000033",
+    "name": "Malicious cyber incident - transport",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-002",
+    "forum_code": "E48000033",
+    "name": "Cyber-attack on the health and social care system",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-003",
+    "forum_code": "E48000033",
+    "name": "Cyber-attack on the financial services",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-004",
+    "forum_code": "E48000033",
+    "name": "Cyber-attack on the telecommunications systems",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-005",
+    "forum_code": "E48000033",
+    "name": "Food supply contamination",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-006",
+    "forum_code": "E48000033",
+    "name": "Major social care provider business failure",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-007",
+    "forum_code": "E48000033",
+    "name": "Failure of National Electricity Transmission System",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-008",
+    "forum_code": "E48000033",
+    "name": "Technical failure at a critical retail bank",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-009",
+    "forum_code": "E48000033",
+    "name": "Fluvial flooding",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-010",
+    "forum_code": "E48000033",
+    "name": "Heatwave",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-011",
+    "forum_code": "E48000033",
+    "name": "Low temperatures and heavy snow",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-012",
+    "forum_code": "E48000033",
+    "name": "Severe space weather",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-013",
+    "forum_code": "E48000033",
+    "name": "Influenza-type disease",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-014",
+    "forum_code": "E48000033",
+    "name": "Emerging infectious disease",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-015",
+    "forum_code": "E48000033",
+    "name": "Disruption to fuel distribution by road",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-016",
+    "forum_code": "E48000033",
+    "name": "Public disorder",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-017",
+    "forum_code": "E48000033",
+    "name": "Major pollution of surface waters and groundwater",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-018",
+    "forum_code": "E48000033",
+    "name": "Railway accident",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-019",
+    "forum_code": "E48000033",
+    "name": "Local / urban flooding",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-020",
+    "forum_code": "E48000033",
+    "name": "Local fluvial flooding",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-021",
+    "forum_code": "E48000033",
+    "name": "Localised fire or explosion at an oil refinery",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-022",
+    "forum_code": "E48000033",
+    "name": "Industrial action affecting life-critical services",
+    "rating": "Very High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-023",
+    "forum_code": "E48000033",
+    "name": "Government critical systems loss",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-024",
+    "forum_code": "E48000033",
+    "name": "Explosion at high pressure pipeline",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-025",
+    "forum_code": "E48000033",
+    "name": "Accidental release of a biological substance",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-026",
+    "forum_code": "E48000033",
+    "name": "Collision of large commercial airliner and business jet",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-027",
+    "forum_code": "E48000033",
+    "name": "Collapse of major contractor providing key public services",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-028",
+    "forum_code": "E48000033",
+    "name": "Disruption or loss of telecommunications systems",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-029",
+    "forum_code": "E48000033",
+    "name": "Systemic financial failure",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-030",
+    "forum_code": "E48000033",
+    "name": "Surface water flooding",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-031",
+    "forum_code": "E48000033",
+    "name": "Drought",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-032",
+    "forum_code": "E48000033",
+    "name": "Poor air quality",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-033",
+    "forum_code": "E48000033",
+    "name": "Volcanic eruption",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-034",
+    "forum_code": "E48000033",
+    "name": "Storms",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-035",
+    "forum_code": "E48000033",
+    "name": "Antimicrobial resistance",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-036",
+    "forum_code": "E48000033",
+    "name": "Exotic notifiable animal disease outbreak",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-037",
+    "forum_code": "E48000033",
+    "name": "Influx of British nationals",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-038",
+    "forum_code": "E48000033",
+    "name": "Accident on motorways and trunk roads",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-039",
+    "forum_code": "E48000033",
+    "name": "Forest or moorland fire",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-040",
+    "forum_code": "E48000033",
+    "name": "Groundwater flooding",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-041",
+    "forum_code": "E48000033",
+    "name": "Removal of explosive ordnance",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000033-042",
+    "forum_code": "E48000033",
+    "name": "Fire or pollution at a waste site",
+    "rating": "High",
+    "source": "Thames Valley CRR December 2022, Appendix A pp. 18–20"
+  },
+  {
+    "id": "E48000034-001",
+    "forum_code": "E48000034",
+    "name": "Flooding",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000034-002",
+    "forum_code": "E48000034",
+    "name": "Heatwaves",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000034-003",
+    "forum_code": "E48000034",
+    "name": "Extreme cold",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000034-004",
+    "forum_code": "E48000034",
+    "name": "Pandemics",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000034-005",
+    "forum_code": "E48000034",
+    "name": "Cyberattacks",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000034-006",
+    "forum_code": "E48000034",
+    "name": "Infrastructure failures",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000034-007",
+    "forum_code": "E48000034",
+    "name": "Transport disruption",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000034-008",
+    "forum_code": "E48000034",
+    "name": "Industrial incidents",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000034-009",
+    "forum_code": "E48000034",
+    "name": "Animal disease",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000034-010",
+    "forum_code": "E48000034",
+    "name": "Terrorism",
+    "source": "Warwickshire Resilience Forum online risk register"
+  },
+  {
+    "id": "E48000035-001",
+    "forum_code": "E48000035",
+    "name": "Terrorism",
+    "source": "West Mercia Community Risk Register v5"
+  },
+  {
+    "id": "E48000035-002",
+    "forum_code": "E48000035",
+    "name": "Cyber and fraud",
+    "source": "West Mercia Community Risk Register v5"
+  },
+  {
+    "id": "E48000035-003",
+    "forum_code": "E48000035",
+    "name": "Serious and organised crime",
+    "source": "West Mercia Community Risk Register v5"
+  },
+  {
+    "id": "E48000035-004",
+    "forum_code": "E48000035",
+    "name": "Accidents and system failures",
+    "source": "West Mercia Community Risk Register v5"
+  },
+  {
+    "id": "E48000035-005",
+    "forum_code": "E48000035",
+    "name": "Natural and environmental hazards",
+    "source": "West Mercia Community Risk Register v5"
+  },
+  {
+    "id": "E48000035-006",
+    "forum_code": "E48000035",
+    "name": "Human and animal disease",
+    "source": "West Mercia Community Risk Register v5"
+  },
+  {
+    "id": "E48000035-007",
+    "forum_code": "E48000035",
+    "name": "Societal risks",
+    "source": "West Mercia Community Risk Register v5"
+  },
+  {
+    "id": "E48000036-001",
+    "forum_code": "E48000036",
+    "name": "Industrial accidents",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-002",
+    "forum_code": "E48000036",
+    "name": "Power failure",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-003",
+    "forum_code": "E48000036",
+    "name": "Severe weather",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-004",
+    "forum_code": "E48000036",
+    "name": "Flooding",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-005",
+    "forum_code": "E48000036",
+    "name": "Fire",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-006",
+    "forum_code": "E48000036",
+    "name": "Heatwave",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-007",
+    "forum_code": "E48000036",
+    "name": "Cold weather",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-008",
+    "forum_code": "E48000036",
+    "name": "Social disruption",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-009",
+    "forum_code": "E48000036",
+    "name": "Health emergencies",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-010",
+    "forum_code": "E48000036",
+    "name": "Transport disruption",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-011",
+    "forum_code": "E48000036",
+    "name": "Cyber threat",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-012",
+    "forum_code": "E48000036",
+    "name": "Fuel shortage",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000036-013",
+    "forum_code": "E48000036",
+    "name": "Terrorism",
+    "source": "West Midlands Community Risk Register July 2026"
+  },
+  {
+    "id": "E48000037-001",
+    "forum_code": "E48000037",
+    "name": "Flooding",
+    "source": "West Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000037-002",
+    "forum_code": "E48000037",
+    "name": "Severe weather",
+    "source": "West Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000037-003",
+    "forum_code": "E48000037",
+    "name": "Human infectious disease",
+    "source": "West Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000037-004",
+    "forum_code": "E48000037",
+    "name": "Loss of essential services",
+    "source": "West Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000037-005",
+    "forum_code": "E48000037",
+    "name": "Transport disruption",
+    "source": "West Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000037-006",
+    "forum_code": "E48000037",
+    "name": "Industrial incidents",
+    "source": "West Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000037-007",
+    "forum_code": "E48000037",
+    "name": "Terrorism",
+    "source": "West Yorkshire Community Risk Register 2025"
+  },
+  {
+    "id": "E48000038-001",
+    "forum_code": "E48000038",
+    "name": "Pandemic influenza",
+    "source": "Wiltshire & Swindon official published resilience summary"
+  },
+  {
+    "id": "E48000038-002",
+    "forum_code": "E48000038",
+    "name": "Flooding",
+    "source": "Wiltshire & Swindon official published resilience summary"
+  },
+  {
+    "id": "E48000038-003",
+    "forum_code": "E48000038",
+    "name": "Severe weather",
+    "source": "Wiltshire & Swindon official published resilience summary"
+  },
+  {
+    "id": "E48000038-004",
+    "forum_code": "E48000038",
+    "name": "Utility failure",
+    "source": "Wiltshire & Swindon official published resilience summary"
+  },
+  {
+    "id": "W41000001-001",
+    "forum_code": "W41000001",
+    "code": "",
+    "name": "Pandemic flu",
+    "likelihood": null,
+    "impact": null,
+    "source": "Dyfed-Powys Community Risk Register, PDF page 6",
+    "page": 6
+  },
+  {
+    "id": "W41000001-002",
+    "forum_code": "W41000001",
+    "code": "",
+    "name": "Flooding",
+    "likelihood": null,
+    "impact": null,
+    "source": "Dyfed-Powys Community Risk Register, PDF page 8",
+    "page": 8
+  },
+  {
+    "id": "W41000001-003",
+    "forum_code": "W41000001",
+    "code": "",
+    "name": "Severe weather",
+    "likelihood": null,
+    "impact": null,
+    "source": "Dyfed-Powys Community Risk Register, PDF page 10",
+    "page": 10
+  },
+  {
+    "id": "W41000001-004",
+    "forum_code": "W41000001",
+    "code": "",
+    "name": "Loss of infrastructure",
+    "likelihood": null,
+    "impact": null,
+    "source": "Dyfed-Powys Community Risk Register, PDF page 12",
+    "page": 12
+  },
+  {
+    "id": "W41000001-005",
+    "forum_code": "W41000001",
+    "code": "",
+    "name": "Pollution",
+    "likelihood": null,
+    "impact": null,
+    "source": "Dyfed-Powys Community Risk Register, PDF page 14",
+    "page": 14
+  },
+  {
+    "id": "W41000001-006",
+    "forum_code": "W41000001",
+    "code": "",
+    "name": "Animal disease",
+    "likelihood": null,
+    "impact": null,
+    "source": "Dyfed-Powys Community Risk Register, PDF page 16",
+    "page": 16
+  },
+  {
+    "id": "W41000001-007",
+    "forum_code": "W41000001",
+    "code": "",
+    "name": "Industrial incidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "Dyfed-Powys Community Risk Register, PDF page 18",
+    "page": 18
+  },
+  {
+    "id": "W41000001-008",
+    "forum_code": "W41000001",
+    "code": "",
+    "name": "Transport incidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "Dyfed-Powys Community Risk Register, PDF page 20",
+    "page": 20
+  },
+  {
+    "id": "W41000002-001",
+    "forum_code": "W41000002",
+    "code": "",
+    "name": "Severe weather",
+    "likelihood": null,
+    "impact": null,
+    "source": "Gwent Community Risk Register, PDF page 9",
+    "page": 9
+  },
+  {
+    "id": "W41000002-002",
+    "forum_code": "W41000002",
+    "code": "",
+    "name": "Flooding",
+    "likelihood": null,
+    "impact": null,
+    "source": "Gwent Community Risk Register, PDF page 10",
+    "page": 10
+  },
+  {
+    "id": "W41000002-003",
+    "forum_code": "W41000002",
+    "code": "",
+    "name": "Human infectious diseases",
+    "likelihood": null,
+    "impact": null,
+    "source": "Gwent Community Risk Register, PDF page 11",
+    "page": 11
+  },
+  {
+    "id": "W41000002-004",
+    "forum_code": "W41000002",
+    "code": "",
+    "name": "Loss of critical infrastructure",
+    "likelihood": null,
+    "impact": null,
+    "source": "Gwent Community Risk Register, PDF page 13",
+    "page": 13
+  },
+  {
+    "id": "W41000002-005",
+    "forum_code": "W41000002",
+    "code": "",
+    "name": "Industrial accidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "Gwent Community Risk Register, PDF page 14",
+    "page": 14
+  },
+  {
+    "id": "W41000002-006",
+    "forum_code": "W41000002",
+    "code": "",
+    "name": "Animal diseases",
+    "likelihood": null,
+    "impact": null,
+    "source": "Gwent Community Risk Register, PDF page 15",
+    "page": 15
+  },
+  {
+    "id": "W41000002-007",
+    "forum_code": "W41000002",
+    "code": "",
+    "name": "Transport incidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "Gwent Community Risk Register, PDF page 16",
+    "page": 16
+  },
+  {
+    "id": "W41000002-008",
+    "forum_code": "W41000002",
+    "code": "",
+    "name": "Land movement",
+    "likelihood": null,
+    "impact": null,
+    "source": "Gwent Community Risk Register, PDF page 17",
+    "page": 17
+  },
+  {
+    "id": "W41000002-009",
+    "forum_code": "W41000002",
+    "code": "",
+    "name": "Malicious threats",
+    "likelihood": null,
+    "impact": null,
+    "source": "Gwent Community Risk Register, PDF page 18",
+    "page": 18
+  },
+  {
+    "id": "W41000003-001",
+    "forum_code": "W41000003",
+    "code": "",
+    "name": "Flooding",
+    "likelihood": null,
+    "impact": null,
+    "rating": "Very high (text description)",
+    "source": "North Wales Community Risk Register, PDF page 4",
+    "page": 4
+  },
+  {
+    "id": "W41000003-002",
+    "forum_code": "W41000003",
+    "code": "",
+    "name": "Severe weather",
+    "likelihood": null,
+    "impact": null,
+    "source": "North Wales Community Risk Register, PDF page 5",
+    "page": 5
+  },
+  {
+    "id": "W41000003-003",
+    "forum_code": "W41000003",
+    "code": "",
+    "name": "A pandemic",
+    "likelihood": null,
+    "impact": null,
+    "source": "North Wales Community Risk Register, PDF page 6",
+    "page": 6
+  },
+  {
+    "id": "W41000003-004",
+    "forum_code": "W41000003",
+    "code": "",
+    "name": "Terrorist incidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "North Wales Community Risk Register, PDF page 7",
+    "page": 7
+  },
+  {
+    "id": "W41000003-005",
+    "forum_code": "W41000003",
+    "code": "",
+    "name": "Industrial incidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "North Wales Community Risk Register, PDF page 8",
+    "page": 8
+  },
+  {
+    "id": "W41000003-006",
+    "forum_code": "W41000003",
+    "code": "",
+    "name": "Loss of critical infrastructure",
+    "likelihood": null,
+    "impact": null,
+    "source": "North Wales Community Risk Register, PDF page 9",
+    "page": 9
+  },
+  {
+    "id": "W41000003-007",
+    "forum_code": "W41000003",
+    "code": "",
+    "name": "Animal disease",
+    "likelihood": null,
+    "impact": null,
+    "source": "North Wales Community Risk Register, PDF page 10",
+    "page": 10
+  },
+  {
+    "id": "W41000003-008",
+    "forum_code": "W41000003",
+    "code": "",
+    "name": "Pollution",
+    "likelihood": null,
+    "impact": null,
+    "source": "North Wales Community Risk Register, PDF page 11",
+    "page": 11
+  },
+  {
+    "id": "W41000003-009",
+    "forum_code": "W41000003",
+    "code": "",
+    "name": "Transport incidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "North Wales Community Risk Register, PDF page 12",
+    "page": 12
+  },
+  {
+    "id": "W41000004-001",
+    "forum_code": "W41000004",
+    "code": "",
+    "name": "Infectious disease outbreaks",
+    "likelihood": null,
+    "impact": null,
+    "source": "South Wales Community Risk Register, PDF page 6",
+    "page": 6
+  },
+  {
+    "id": "W41000004-002",
+    "forum_code": "W41000004",
+    "code": "",
+    "name": "Pandemic",
+    "likelihood": null,
+    "impact": null,
+    "source": "South Wales Community Risk Register, PDF page 7",
+    "page": 7
+  },
+  {
+    "id": "W41000004-003",
+    "forum_code": "W41000004",
+    "code": "",
+    "name": "Severe weather",
+    "likelihood": null,
+    "impact": null,
+    "source": "South Wales Community Risk Register, PDF page 10",
+    "page": 10
+  },
+  {
+    "id": "W41000004-004",
+    "forum_code": "W41000004",
+    "code": "",
+    "name": "Flooding",
+    "likelihood": null,
+    "impact": null,
+    "rating": "Very high (text description)",
+    "source": "South Wales Community Risk Register, PDF page 12",
+    "page": 12
+  },
+  {
+    "id": "W41000004-005",
+    "forum_code": "W41000004",
+    "code": "",
+    "name": "Land movement",
+    "likelihood": null,
+    "impact": null,
+    "source": "South Wales Community Risk Register, PDF page 15",
+    "page": 15
+  },
+  {
+    "id": "W41000004-006",
+    "forum_code": "W41000004",
+    "code": "",
+    "name": "Industrial accidents",
+    "likelihood": null,
+    "impact": null,
+    "source": "South Wales Community Risk Register, PDF page 18",
+    "page": 18
+  },
+  {
+    "id": "W41000004-007",
+    "forum_code": "W41000004",
+    "code": "",
+    "name": "Loss of utilities",
+    "likelihood": null,
+    "impact": null,
+    "source": "South Wales Community Risk Register, PDF page 21",
+    "page": 21
+  },
+  {
+    "id": "W41000004-008",
+    "forum_code": "W41000004",
+    "code": "",
+    "name": "Animal disease",
+    "likelihood": null,
+    "impact": null,
+    "source": "South Wales Community Risk Register, PDF page 24",
+    "page": 24
+  },
+  {
+    "id": "W41000004-009",
+    "forum_code": "W41000004",
+    "code": "",
+    "name": "Malicious threats",
+    "likelihood": null,
+    "impact": null,
+    "source": "South Wales Community Risk Register, PDF page 27",
+    "page": 27
+  }
+]

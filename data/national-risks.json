@@ -1,0 +1,857 @@
+[
+  {
+    "national_id": "NRR26-001",
+    "national_risk": "International terrorist attack",
+    "category": "Terrorism",
+    "pdf_page": 30,
+    "source_edition": "2026",
+    "definition_excerpt": "There have been a number of terrorist attacks occurring overseas that have involved British nationals. One such event was the incident in Catastrophic 5Tunisia in 2015, in which 30 of the victims were British. Since 2017, 47 British nationals have died in terrorism events, including most recently in the New Orleans vehicle attack and the",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-002",
+    "national_risk": "Northern Ireland-related terrorism",
+    "category": "Terrorism",
+    "pdf_page": 32,
+    "source_edition": "2026",
+    "definition_excerpt": "The current threat level for Northern Ireland‑related terrorism in Northern Ireland is substantial, meaning an attack is likely. Since the signing of the Catastrophic 5Belfast (Good Friday) Agreement there has been a transformative change in Northern Ireland where peace has brought stability and opportunities, enabling it to develop into",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-003",
+    "national_risk": "Terrorist attacks in venues and public spaces: explosive devices",
+    "category": "Terrorism",
+    "pdf_page": 34,
+    "source_edition": "2026",
+    "definition_excerpt": "An explosive attack can occur as a result of either a person‑borne",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-004",
+    "national_risk": "Terrorist attacks in venues and public spaces: marauding attacks",
+    "category": "Terrorism",
+    "pdf_page": 36,
+    "source_edition": "2026",
+    "definition_excerpt": "Marauding terrorist attacks (MTAs) involving the deliberate seeking Variations of targets by an attacker can take many forms. A wide range of The attack could vary in the level of coordination. Attacks may form partmethodologies from high sophistication to lower complexity can be used of multiple coordinated incidents or be singular",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-005",
+    "national_risk": "Malicious maritime incident",
+    "category": "Terrorism",
+    "pdf_page": 38,
+    "source_edition": "2026",
+    "definition_excerpt": "The risk of a malicious attack targeting the maritime sector in the UK",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-006",
+    "national_risk": "Malicious rail incident",
+    "category": "Terrorism",
+    "pdf_page": 40,
+    "source_edition": "2026",
+    "definition_excerpt": "The domestic rail network in Great Britain has historically been a target.",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-007",
+    "national_risk": "Malicious aviation incident",
+    "category": "Terrorism",
+    "pdf_page": 42,
+    "source_edition": "2026",
+    "definition_excerpt": "While air travel remains one of the safest forms of transport, aviation leading to a greater number of fatalities and damage to more buildings continues to be an attractive target for terrorists and those who wish to and infrastructure. cause harm. In recent decades, there have been several attacks and",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-008",
+    "national_risk": "Strategic hostage taking",
+    "category": "Terrorism",
+    "pdf_page": 44,
+    "source_edition": "2026",
+    "definition_excerpt": "Strategic hostage taking can be characterised as an incident in which subject(s) are held and/or threatened, in order to fulfil terms and Catastrophic 5conditions of the attacker(s), who may hold political or ideological motivations. The 1980 Iranian Embassy Siege serves as an example of this type of risk, where 26 people were taken",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-009",
+    "national_risk": "Assassination of a high-profile figure",
+    "category": "Terrorism",
+    "pdf_page": 46,
+    "source_edition": "2026",
+    "definition_excerpt": "High‑profile public figures have historically been targets of assassination attempts. In the UK, the most recent example is that of Sir David Amess Catastrophic 5MP, who was murdered on 15 October 2021 at a constituency surgery in Leigh‑on‑Sea.",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-010",
+    "national_risk": "Chemical, Biological, Radiological and Nuclear (CBRN) attacks",
+    "category": "Terrorism",
+    "pdf_page": 48,
+    "source_edition": "2026",
+    "definition_excerpt": "Malicious actors including terrorists, states or criminals remain interested elements arrive. Specialist operational response teams, supported by in CBRN attack methods. Current assessments suggest terrorists are CBRN resources, manage the scene and hazard, providing further more likely to use conventional attack methodologies, however,",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-011",
+    "national_risk": "Conventional attack: gas infrastructure",
+    "category": "Terrorism",
+    "pdf_page": 50,
+    "source_edition": "2026",
+    "definition_excerpt": "Great Britain has a highly resilient gas network and a conventional",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-012",
+    "national_risk": "Cyber attack: gas infrastructure",
+    "category": "Terrorism",
+    "pdf_page": 52,
+    "source_edition": "2026",
+    "definition_excerpt": "Gas infrastructure may represent a potential target for cyber attacks. Our",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-013",
+    "national_risk": "Conventional attack: electricity infrastructure",
+    "category": "Terrorism",
+    "pdf_page": 54,
+    "source_edition": "2026",
+    "definition_excerpt": "Great Britain has a highly resilient electricity network. A successful Variation attack on electricity infrastructure has not taken place in Great Britain, The conventional attack on electricity infrastructure occurs in the summer.though attempts were made to attack electricity infrastructure in the 1990s. Multiple attacks on electricity",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-014",
+    "national_risk": "Cyber attack: electricity infrastructure",
+    "category": "Terrorism",
+    "pdf_page": 56,
+    "source_edition": "2026",
+    "definition_excerpt": "The National Electricity Transmission System (NETS) transports electricity",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-015",
+    "national_risk": "Conventional attack: civil nuclear",
+    "category": "Terrorism",
+    "pdf_page": 58,
+    "source_edition": "2026",
+    "definition_excerpt": "The civil nuclear sector is of strategic importance to the UK’s national multi‑agency environment. Interagency coordination must be exercised security, energy resilience and clean energy transition. The UK’s civil to minimise the impact of incidents on local communities and dovetail nuclear industry covers a broad spectrum of the nuclear",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-016",
+    "national_risk": "Conventional attack: fuel supply infrastructure",
+    "category": "Terrorism",
+    "pdf_page": 60,
+    "source_edition": "2026",
+    "definition_excerpt": "Fuel supply infrastructure is used to produce, import, store and distribute emergency powers are available under the Energy Act 1976 to manage fuels such as gasoline and diesel to consumers. Those with malicious supply and demand. intent could disrupt operations at a fuel infrastructure site, causing CNI and Wider Private Sector. The",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-017",
+    "national_risk": "Cyber attack: fuel supply infrastructure",
+    "category": "Terrorism",
+    "pdf_page": 62,
+    "source_edition": "2026",
+    "definition_excerpt": "A cyber attack on the UK’s fuel supply infrastructure could have CNI and Wider Private Sector. Industry operators work to readjust supply implications for UK fuel production or distribution. Our critical operators routes once operations at the affected site have resumed. that meet the relevant thresholds are in scope of the Network and",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-018",
+    "national_risk": "Attack on a government building",
+    "category": "Terrorism",
+    "pdf_page": 63,
+    "source_edition": "2026",
+    "definition_excerpt": "In order for the government to function effectively and provide services",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-019",
+    "national_risk": "Cyber attack: health and social care system",
+    "category": "Cyber",
+    "pdf_page": 66,
+    "source_edition": "2026",
+    "definition_excerpt": "The health and social care system remains a target for cybercriminals. In",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-020",
+    "national_risk": "Cyber attack: transport sector",
+    "category": "Cyber",
+    "pdf_page": 68,
+    "source_edition": "2026",
+    "definition_excerpt": "Cyber attacks on transport networks or systems have the potential to Variations cause widespread disruption to public transport across the UK and The threat or risk to rail is not assessed as any more likely than a similarbeyond. AI can automate the process of launching cyber-attacks, making attack against road, maritime or aviation.",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-021",
+    "national_risk": "Cyber attack: telecommunications systems",
+    "category": "Cyber",
+    "pdf_page": 70,
+    "source_edition": "2026",
+    "definition_excerpt": "Telecommunications is part of the communications critical national Variations infrastructure (CNI) sector, and comprises fixed‑line communications, There are numerous variations of this risk in terms of attack vectors,mobile communications and internet infrastructure. Communication scale, services and sectors impacted, and length of",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-022",
+    "national_risk": "Cyber attack: data infrastructure",
+    "category": "Cyber",
+    "pdf_page": 72,
+    "source_edition": "2026",
+    "definition_excerpt": "Data centres host and support the digital infrastructure that underpins Variations modern life, from patient records and emails to product data and financial There are numerous variations of this risk in terms of attack vectors,systems. Data centres were designated as a critical national infrastructure scale, services and sectors",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-023",
+    "national_risk": "Cyber attack: water infrastructure",
+    "category": "Cyber",
+    "pdf_page": 74,
+    "source_edition": "2026",
+    "definition_excerpt": "The water sector is increasingly reliant on digital systems, known as",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-024",
+    "national_risk": "Cyber attack: police systems",
+    "category": "Cyber",
+    "pdf_page": 76,
+    "source_edition": "2026",
+    "definition_excerpt": "Policing systems are seen as high value targets for malicious actors, with",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-025",
+    "national_risk": "Malicious attack: civil nuclear",
+    "category": "State threats",
+    "pdf_page": 79,
+    "source_edition": "2026",
+    "definition_excerpt": "The civil nuclear sector is of strategic importance to the UK’s national",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-026",
+    "national_risk": "Malicious attack: UK financial CNI",
+    "category": "State threats",
+    "pdf_page": 81,
+    "source_edition": "2026",
+    "definition_excerpt": "Financial market infrastructures (FMIs) are the networks that enable Variations financial transactions to take place. Some FMIs constitute critical national Variations involve different examples of FMIs. For example, attacks on theinfrastructure (CNI), as they provide services essential to the UK economy. SWIFT messaging system, Visa and",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-027",
+    "national_risk": "Malicious attack: UK retail bank",
+    "category": "State threats",
+    "pdf_page": 83,
+    "source_edition": "2026",
+    "definition_excerpt": "Retail banks provide financial services to individuals. The services they policy, which reached its initial implementation milestone in spring 2025, provide are vital to the UK’s economy. They allow consumers to securely requires regulated firms to set impact tolerances and remain within these. deposit and save their money, and access",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-028",
+    "national_risk": "Major disruption to international subsea telecoms cables",
+    "category": "State threats",
+    "pdf_page": 84,
+    "source_edition": "2026",
+    "definition_excerpt": "The UK is highly reliant on international digital connectivity for everyday Variations services, economic activity, and public administration. Subsea telecoms A loss of a small number of cables could result from disruption at sea,cables provide this connectivity, carrying around 99% of internet and such as a major underwater landslip",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-029",
+    "national_risk": "Disruption to global oil trade routes",
+    "category": "Geopolitical and diplomatic risks",
+    "pdf_page": 87,
+    "source_edition": "2026",
+    "definition_excerpt": "Oil is a strategic resource and its free flow is critical to world commerce and global economic prosperity. Due to the global nature of the Catastrophic 5international oil trade, disruptions to oil trade routes can lead to regional and even global economic crises as a result of significant impacts on energy prices, production, and wider",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-030",
+    "national_risk": "Interference in UK democratic process",
+    "category": "Geopolitical and diplomatic risks",
+    "pdf_page": 89,
+    "source_edition": "2026",
+    "definition_excerpt": "This government is committed to restoring trust in our political system, with local authorities, the Electoral Commission, and across government. by strengthening our democracy and encouraging full participation Where appropriate, the government will work with political parties and in our elections. MHCLG set out their vision in",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-031",
+    "national_risk": "Major adult social care provider failure",
+    "category": "Accidents and systems failures",
+    "pdf_page": 91,
+    "source_edition": "2026",
+    "definition_excerpt": "A complex major adult social care provider failure (MPF) could occur for a number of reasons, such as cost pressures or over‑indebtedness. Catastrophic 5If unmitigated, there is a real risk to continuity of care for people with significant health, care and support needs. The Care Quality Commission’s (CQC) Market Oversight Scheme is",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-032",
+    "national_risk": "Insolvency of supplier(s) of critical services to the public sector",
+    "category": "Accidents and systems failures",
+    "pdf_page": 93,
+    "source_edition": "2026",
+    "definition_excerpt": "There is a risk that a major supplier of critical services to public sectors could suffer insolvency. Any insolvency of a critical supplier could also Catastrophic 5lead to the disruption of essential public sector services. A number of risk management activities mitigate the impact and likelihood of insolvency or its impacts, including",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-033",
+    "national_risk": "Insolvency affecting fuel supply",
+    "category": "Accidents and systems failures",
+    "pdf_page": 95,
+    "source_edition": "2026",
+    "definition_excerpt": "The insolvency of a downstream oil sector operator could have an impact on regional fuel supply and it will be important in this",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-034",
+    "national_risk": "Rail accident",
+    "category": "Accidents and systems failures",
+    "pdf_page": 97,
+    "source_edition": "2026",
+    "definition_excerpt": "Although UK railways are among the safest in Europe, there is still a risk that a rail accident could occur. A recent example is the Shap derailment Catastrophic 5in November 2025, when a passenger train ran into a landslide in rural Cumbria following a period of heavy rainfall, which resulted in the train derailing for 560 metres, with",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-035",
+    "national_risk": "Large passenger vessel accident",
+    "category": "Accidents and systems failures",
+    "pdf_page": 99,
+    "source_edition": "2026",
+    "definition_excerpt": "There is a risk that a large passenger vessel such as a cruise ship could Variations sink in UK waters. This is a low likelihood risk, with the last major accident A variation",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-036",
+    "national_risk": "Major maritime pollution incident",
+    "category": "Accidents and systems failures",
+    "pdf_page": 101,
+    "source_edition": "2026",
+    "definition_excerpt": "There is a risk of major maritime pollution in UK waters, which could result from the accidental spillage of a pollutant, for example, oil from tankers or Catastrophic 5leakage from pipelines or offshore oil wells. These incidents are infrequent but do occur on occasion. For example, 72,000 tonnes of crude oil were spilled due to the Sea",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-037",
+    "national_risk": "Vessel blocking a major UK port",
+    "category": "Accidents and systems failures",
+    "pdf_page": 103,
+    "source_edition": "2026",
+    "definition_excerpt": "There is a risk that an accident involving a vessel could block a major UK port, disrupting key imports and exports. The consequences of this risk Catastrophic 5were observed in the Suez Canal in 2021, which was blocked by one of the largest container ships in the world as a result of it running aground. This resulted in delays to",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-038",
+    "national_risk": "Accident involving high-consequence dangerous goods",
+    "category": "Accidents and systems failures",
+    "pdf_page": 105,
+    "source_edition": "2026",
+    "definition_excerpt": "High‑consequence dangerous goods are materials that pose significant could be involved include flammable gases or liquids, substances liable to risks to health, safety or the environment and have the potential for spontaneous combustion, corrosive substances, and nuclear material or misuse in terrorist events, requiring strict regulatory",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-039",
+    "national_risk": "Aviation collision",
+    "category": "Accidents and systems failures",
+    "pdf_page": 107,
+    "source_edition": "2026",
+    "definition_excerpt": "UK airspace and UK airlines are among the safest in the world. There Variations has not been a fatality on a commercial passenger airline in the UK since Other plausible",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-040",
+    "national_risk": "Malicious drone incident",
+    "category": "Accidents and systems failures",
+    "pdf_page": 109,
+    "source_edition": "2026",
+    "definition_excerpt": "The use of drones has increased significantly in recent years, both for CNI and Wider Private Sector. Airports and airlines are responsible for business and pleasure purposes. UK law dictates that registration with ensuring the safety and security of their operations and taking appropriate the Civil Aviation Authority (CAA) is mandatory",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-041",
+    "national_risk": "Disruption to space-based services",
+    "category": "Accidents and systems failures",
+    "pdf_page": 110,
+    "source_edition": "2026",
+    "definition_excerpt": "Space‑based services, including satellite communications and remote‑sensing systems, are integral to the United Kingdom’s critical Catastrophic 5national infrastructure. Rising orbital congestion and increasing national reliance have significantly elevated the assessed likelihood and impact of disruption. Loss or degradation of these",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-042",
+    "national_risk": "Loss of Positioning, Navigation and Timing (PNT) services",
+    "category": "Accidents and systems failures",
+    "pdf_page": 112,
+    "source_edition": "2026",
+    "definition_excerpt": "PNT services are a critical component of the UK’s infrastructure. Variations They facilitate a diverse range of essential functions across an Variations include serious and organised crime jamming and spoofingincreasingly interconnected society. For example, PNT is essential for activities leading to a loss of PNT services; state threats",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-043",
+    "national_risk": "Simultaneous loss of all fixed and mobile forms of communication",
+    "category": "Accidents and systems failures",
+    "pdf_page": 115,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Accidents and systems failures Simultaneous loss of all fixed and mobile forms of communication The simultaneous loss of access to all fixed and mobile forms of communication is a form of systems failure that may occur as a result Catastrophic 5of severe weather. Major storms can cause significant disruption to broadband and",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-044",
+    "national_risk": "National power outage",
+    "category": "Accidents and systems failures",
+    "pdf_page": 117,
+    "source_edition": "2026",
+    "definition_excerpt": "The National Electricity Transmission System (NETS) transports electricity across Great Britain. A failure of this system has the potential to severely Catastrophic 5disrupt all other critical systems, resulting in greater consequences than typical utilities failures. Great Britain has never experienced a nationwide loss of power and the",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-045",
+    "national_risk": "Regional failure of the electricity network",
+    "category": "Accidents and systems failures",
+    "pdf_page": 119,
+    "source_edition": "2026",
+    "definition_excerpt": "A regional failure of Great Britain’s electricity network could impact Variations millions and may result from extreme weather causing damage to local Variations depend upon the cause and region impacted, and levels ofinfrastructure. In recent years, Great Britain has experienced smaller‑scale resilience in these areas. There are a range",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-046",
+    "national_risk": "National gas and electricity shortfall",
+    "category": "Accidents and systems failures",
+    "pdf_page": 121,
+    "source_edition": "2026",
+    "definition_excerpt": "Natural gas is a crucial fuel source that is used to heat homes and",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-047",
+    "national_risk": "Civil nuclear accident",
+    "category": "Accidents and systems failures",
+    "pdf_page": 123,
+    "source_edition": "2026",
+    "definition_excerpt": "Civil nuclear power is of strategic importance to the UK’s energy resilience and clean energy transition and is a safe and effective mode of generating Catastrophic 5electricity. Only a small number of accidents have occurred worldwide since the first commercial nuclear power station came into operation in 1956. As required by UK",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-048",
+    "national_risk": "Radiation release from overseas nuclear site",
+    "category": "Accidents and systems failures",
+    "pdf_page": 125,
+    "source_edition": "2026",
+    "definition_excerpt": "Another risk that the government is planning for is an accident at an overseas nuclear site that results in the release of radiation. Impacts on Catastrophic 5the UK homeland would most likely be felt if the accident occurred at a site in a country close to the UK as opposed to a geographically distant location. For example, the 2011",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-049",
+    "national_risk": "Radiation exposure from transported, stolen or lost goods",
+    "category": "Accidents and systems failures",
+    "pdf_page": 127,
+    "source_edition": "2026",
+    "definition_excerpt": "There is a low likelihood that radiation could be released from goods being transported within or into the UK. When these goods are handled Catastrophic 5correctly by trained professionals, the risk of radiation release is extremely low. However, there is a risk as individuals handling transported, stolen or lost goods are unlikely to",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-050",
+    "national_risk": "Technological failure at a systemically important retail bank",
+    "category": "Accidents and systems failures",
+    "pdf_page": 129,
+    "source_edition": "2026",
+    "definition_excerpt": "The increasing digitisation of financial services means that a technological failure of IT systems could result in customers being unable to access key Catastrophic 5account functions and important information, including online banking. The financial regulators’ operational resilience policy requires finance sector organisations to",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-051",
+    "national_risk": "Technological failure at a UK critical financial market infrastructure",
+    "category": "Accidents and systems failures",
+    "pdf_page": 131,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Accidents and systems failures Technological failure at a UK critical financial market infrastructure Financial market infrastructures (FMIs) are the networks that enable",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-052",
+    "national_risk": "Accidental fire or explosion at an onshore major hazard (COMAH) site",
+    "category": "Accidents and systems failures",
+    "pdf_page": 133,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Accidents and systems failures Accidental fire or explosion at an onshore major hazard (COMAH) site This risk involves a Control of Major Accident Hazards (COMAH) site Variations that produces, stores or uses significant amounts of flammable or The impacts of the",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-053",
+    "national_risk": "Accidental large toxic chemical release from an onshore major hazard (COMAH) site",
+    "category": "Accidents and systems failures",
+    "pdf_page": 135,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Accidents and systems failures Accidental large toxic chemical release from an onshore major hazard (COMAH) site This risk is concerning an incident in which a toxic gas is accidentally released from a Control of Major Accident Hazards (COMAH) site in Catastrophic 5the UK. There are two types (tiers) of establishment that are",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-054",
+    "national_risk": "Accidental fire or explosion on an offshore oil or gas installation",
+    "category": "Accidents and systems failures",
+    "pdf_page": 137,
+    "source_edition": "2026",
+    "definition_excerpt": "This risk concerns an offshore oil or gas installation. These installations store and process significant volumes of highly flammable hydrocarbon Catastrophic 5mixtures such as crude oil and natural gas, which could potentially result in a large fire or explosion if released accidently. Operators of these installations have a legal duty",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-055",
+    "national_risk": "Accidental fire or explosion at an onshore fuel pipeline",
+    "category": "Accidents and systems failures",
+    "pdf_page": 139,
+    "source_edition": "2026",
+    "definition_excerpt": "This risk involves an onshore pipeline that transports petroleum and Variations other fuels. Although pipelines are a safe and cost‑effective mode of fuel The extent and severity of impacts would depend on a variety of factorstransportation, accidental damage and loss of containment of flammable including pipeline contents, time of",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-056",
+    "national_risk": "Accidental fire or explosion at an onshore major accident hazard pipeline",
+    "category": "Accidents and systems failures",
+    "pdf_page": 141,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Accidents and systems failures Accidental fire or explosion at an onshore major accident hazard pipeline This risk concerns an onshore major accident hazard pipeline (MAHP). These pipelines transport flammable and toxic materials with the potential Catastrophic 5to cause major accidents if accidently released. Operators of",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-057",
+    "national_risk": "Accidental work-related (laboratory) release of a hazardous pathogen",
+    "category": "Accidents and systems failures",
+    "pdf_page": 143,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Accidents and systems failures Accidental work‑related (laboratory) release of a hazardous pathogen This risk involves the accidental release of a hazardous pathogen from a laboratory in the UK. Operators of these sites must meet strict Catastrophic 5containment and safety requirements to work with these types of pathogens and",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-058",
+    "national_risk": "Reservoir/dam collapse",
+    "category": "Accidents and systems failures",
+    "pdf_page": 145,
+    "source_edition": "2026",
+    "definition_excerpt": "The collapse or breach of a reservoir or dam can be sudden and result in the uncontrolled release of fast‑flowing water into a populated area. Catastrophic 5Potential causes of this may include climate‑related land instability, internal erosion or an earthquake. There have been no catastrophic failures of dams in the UK since 1925.",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-059",
+    "national_risk": "Water infrastructure failure or loss of drinking water",
+    "category": "Accidents and systems failures",
+    "pdf_page": 147,
+    "source_edition": "2026",
+    "definition_excerpt": "The failure of critical water infrastructure serving a large urban area would result in the loss of drinking water supply to a large population. Catastrophic 5An incident of this magnitude is likely to overwhelm the capacity of the water sector to provide alternative water via tankers or bottles and require evacuation of households and",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-060",
+    "national_risk": "Food supply contamination",
+    "category": "Accidents and systems failures",
+    "pdf_page": 149,
+    "source_edition": "2026",
+    "definition_excerpt": "The contamination of food products with pathogens such as Salmonella, Listeria or Shiga toxin‑producing Escherichia Coli (STEC) represents Catastrophic 5a significant threat to public health. Contamination may result from processing failures, cross‑contamination, poor hygiene, inappropriate storage or contamination with animal waste. The",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-061",
+    "national_risk": "Major fire",
+    "category": "Accidents and systems failures",
+    "pdf_page": 151,
+    "source_edition": "2026",
+    "definition_excerpt": "This risk concerns a major fire occurring in the UK. Major fires can start for a variety of reasons, including accidents (for example, electrical faults), Catastrophic 5human activity that combines ignition sources and fuel, malicious activity (for example, arson), infrastructure incidents (for example, sparks from electricity lines or",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-062",
+    "national_risk": "National disruption to data infrastructure",
+    "category": "Accidents and systems failures",
+    "pdf_page": 153,
+    "source_edition": "2026",
+    "definition_excerpt": "In 2025, prolonged power outages in Spain and Portugal led to Variations widespread disruption of digital services, with several data centres National disruption to data infrastructure could occur from powerexperiencing outages and Cloud‑based services becoming inaccessible, outages, extreme weather conditions (e.g. flooding or extreme",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-063",
+    "national_risk": "Digital resilience failure",
+    "category": "Accidents and systems failures",
+    "pdf_page": 155,
+    "source_edition": "2026",
+    "definition_excerpt": "Digital resilience failures are becoming more common. Most instances are small‑scale in impact, but there are examples where there is disruption Catastrophic 5at a national scale. Reasonable worst‑case",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-064",
+    "national_risk": "Accidental damage on the National Gas Transmission Network",
+    "category": "Accidents and systems failures",
+    "pdf_page": 157,
+    "source_edition": "2026",
+    "definition_excerpt": "Natural gas is a crucial fuel source that is used to heat homes and businesses, generate electricity or act as a feedstock for industrial Catastrophic 5processes across the UK. The UK has a diverse and highly resilient gas network. Industry works to continuously minimise the risk of unplanned disruption while taking the risk of such",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-065",
+    "national_risk": "Wildfire",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 160,
+    "source_edition": "2026",
+    "definition_excerpt": "A wildfire is an uncontrolled fire that burns vegetation, such as grass, heather, woodland, crops and scrubland. Climate change is leading to Catastrophic 5changes in the weather patterns that affect the UK, with longer drier summers becoming more common. This leads to drier vegetation and more frequent, larger wildfires – increasing",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-066",
+    "national_risk": "Volcanic eruption",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 163,
+    "source_edition": "2026",
+    "definition_excerpt": "There are several volcanoes across Europe that could affect the UK, such as Santorini in the Aegean Sea and Vesuvius in Italy. However, volcanoes  in Iceland (such as Bárðarbunga and Eyjafjallajökull) are of most concern because they are close to the UK and could impact a high volume of air traffic across Europe. Signiﬁcant",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-067",
+    "national_risk": "Earthquake",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 165,
+    "source_edition": "2026",
+    "definition_excerpt": "Significant earthquakes in the UK are rare, and an earthquake powerful enough to inflict severe damage is unlikely. Each year, the UK experiences Catastrophic 5around 200‑300 earthquakes but only 10% of these are powerful enough to be noticed by people even slightly. There is an increased chance of damage occurring and of that damage",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-068",
+    "national_risk": "Humanitarian crisis overseas: natural hazard event",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 167,
+    "source_edition": "2026",
+    "definition_excerpt": "A natural hazard event such as an earthquake, hurricane or tsunami may result in a humanitarian crisis overseas that directly impacts UK interests Catastrophic 5or citizens. The UK regularly responds to major humanitarian crises overseas such as Hurricane Melissa in the Caribbean and the Myanmar Earthquake last year. This can include",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-069",
+    "national_risk": "Disaster affecting a UK Overseas Territory",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 169,
+    "source_edition": "2026",
+    "definition_excerpt": "As an inalienable part of the UK homeland, the UK bears responsibility for the security of the Overseas Territories (OTs). Any major disaster or Catastrophic 5issue in an OT would require a rapid and major response from the UK after assistance has been requested by the relevant OT government, and considerable political and public",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-070",
+    "national_risk": "Severe space weather",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 171,
+    "source_edition": "2026",
+    "definition_excerpt": "The term ‘space weather’ describes a series of phenomena originating from the sun, which include solar flares, solar energetic particles and Catastrophic 5coronal mass ejections. Day‑to‑day space weather causes little more than the Aurora Borealis in polar regions, but strong space weather events can bring disruption to many vital",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-071",
+    "national_risk": "Storms",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 173,
+    "source_edition": "2026",
+    "definition_excerpt": "Windstorms – associated with Atlantic low‑pressure systems – affect the UK every year, mainly during autumn and winter. Met Office climate Catastrophic 5change projections indicate that the frequency and intensity of winter windstorms may well increase over the coming decades. The UK has experienced some severe storms over the last few",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-072",
+    "national_risk": "High temperatures and heatwaves",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 175,
+    "source_edition": "2026",
+    "definition_excerpt": "Climate change means that extreme heat has become more likely in the UK, with this trend expected to continue over the coming decades. Catastrophic 5Summer 2025 was the warmest on record and the UK experienced a series of heatwaves, with temperatures reaching 35°C in some areas.",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-073",
+    "national_risk": "Low temperatures and snow",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 177,
+    "source_edition": "2026",
+    "definition_excerpt": "Winters with low temperatures and heavy snowfall pose a significant",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-074",
+    "national_risk": "Coastal flooding",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 179,
+    "source_edition": "2026",
+    "definition_excerpt": "Coastal flooding is caused by high tides, low pressure weather systems, large waves and surge conditions caused by strong winds blowing Catastrophic 5towards the shore. As sea levels continue to rise as a result of climate change, the risk of coastal flooding will also increase. Flooding events have serious consequences for coastal",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-075",
+    "national_risk": "Fluvial flooding",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 181,
+    "source_edition": "2026",
+    "definition_excerpt": "Fluvial flooding occurs when waterways such as rivers, streams or Variations brooks overflow their banks into surrounding areas. This risk is most A lower‑impact",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-076",
+    "national_risk": "Surface water flooding",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 183,
+    "source_edition": "2026",
+    "definition_excerpt": "Surface water flooding occurs when rainfall overwhelms the capacity of drainage systems, resulting in water flowing over the land instead of Catastrophic 5through drainage systems. This type of flooding can occur in a wide variety of locations, including towns or cities located far from the sea or rivers. It is also particularly",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-077",
+    "national_risk": "Drought",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 185,
+    "source_edition": "2026",
+    "definition_excerpt": "A drought may occur following a period of abnormally low rainfall, which results in a shortage of water. The future risk of drought due to climate Catastrophic 5change is increasing, and there is a trend towards hotter summers with associated high water demand. This was shown in 2025 when the Met Office declared the summer of 2025 as the",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-078",
+    "national_risk": "Poor air quality",
+    "category": "Natural and environmental hazards",
+    "pdf_page": 187,
+    "source_edition": "2026",
+    "definition_excerpt": "Air quality has improved significantly over recent decades. However, air suspension of soil dust following drought, from long‑range transport (for pollution remains the largest environmental risk to UK public health and is example, Saharan dust), and from uncontrolled biomass combustion linked with reduced life spans. Short‑term surges",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-079",
+    "national_risk": "Pandemic",
+    "category": "Human, animal and plant health",
+    "pdf_page": 190,
+    "source_edition": "2026",
+    "definition_excerpt": "Pandemics are the result of a novel pathogen (viruses, bacteria, fungi or other organisms that cause disease) emerging and spreading Catastrophic 5quickly around the world due to lack of population immunity. Once the pathogen emerges it is crucial to gain a rapid understanding of the spread, transmission, symptoms, severity, immunity,",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-080",
+    "national_risk": "Outbreak of an emerging infectious disease",
+    "category": "Human, animal and plant health",
+    "pdf_page": 193,
+    "source_edition": "2026",
+    "definition_excerpt": "Emerging infectious diseases are newly recognised diseases that could result in large numbers of people falling ill. Some emerging infectious Catastrophic 5diseases are classified as High Consequence Infectious Diseases. Emerging infectious diseases require a rapid and enhanced individual, population and system response to ensure",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-081",
+    "national_risk": "Animal disease: major outbreak of foot and mouth disease",
+    "category": "Human, animal and plant health",
+    "pdf_page": 195,
+    "source_edition": "2026",
+    "definition_excerpt": "Foot and mouth disease (FMD) is a severe, highly infectious viral disease Variations with significant economic impact, affecting several types of animal If this",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-082",
+    "national_risk": "Animal disease: major outbreak of highly pathogenic avian influenza",
+    "category": "Human, animal and plant health",
+    "pdf_page": 197,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Human, animal and plant health Animal disease: major outbreak of highly pathogenic avian influenza Highly pathogenic avian influenza (HPAI) is a severe, highly infectious influenza causing significant morbidity and mortality in susceptible avian Catastrophic 5species. HPAI is primarily a disease of birds, but can be",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-083",
+    "national_risk": "Animal disease: major outbreak of African horse sickness",
+    "category": "Human, animal and plant health",
+    "pdf_page": 199,
+    "source_edition": "2026",
+    "definition_excerpt": "African horse sickness (AHS) is a vector‑borne animal disease that is",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-084",
+    "national_risk": "Animal disease: major outbreak of African swine fever",
+    "category": "Human, animal and plant health",
+    "pdf_page": 201,
+    "source_edition": "2026",
+    "definition_excerpt": "African swine fever (ASF) is a highly contagious haemorrhagic viral disease",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-085",
+    "national_risk": "Major outbreaks of plant pest: Xylella fastidiosa",
+    "category": "Human, animal and plant health",
+    "pdf_page": 203,
+    "source_edition": "2026",
+    "definition_excerpt": "Xylella fastidiosa is a bacterium that is responsible for causing a number",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-086",
+    "national_risk": "Major outbreaks of plant pest: Agrilus planipennis",
+    "category": "Human, animal and plant health",
+    "pdf_page": 205,
+    "source_edition": "2026",
+    "definition_excerpt": "Larvae of the emerald ash borer beetle (Agrilus planipennis) bore into the inner bark and outer sapwood of ash trees, weakening the trees Catastrophic 5and causing them to die. There have been no previous outbreaks in the UK, but as the beetle spreads across Europe, there is an increasing likelihood that it will enter the country. This",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-087",
+    "national_risk": "Public disorder",
+    "category": "Societal",
+    "pdf_page": 208,
+    "source_edition": "2026",
+    "definition_excerpt": "Public disorder is a highly unpredictable risk. Although the majority of protests in the UK remain peaceful, on rare occasions these events Catastrophic 5can escalate towards conflict. The primary driver may be long‑standing grievances, or it could occur as a spontaneous response to a single incident, such as the Southport attacks of",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-088",
+    "national_risk": "Industrial action",
+    "category": "Societal",
+    "pdf_page": 210,
+    "source_edition": "2026",
+    "definition_excerpt": "Industrial action happens when trade union members are in a dispute Variations with their employers that cannot be solved through negotiations. It can This",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-089",
+    "national_risk": "Reception and integration of British nationals arriving from overseas",
+    "category": "Societal",
+    "pdf_page": 212,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Societal Reception and integration of British nationals arriving from overseas It is estimated that approximately 5.5 million British nationals (BNs) reside abroad. An adverse event in another country, such as a terrorist attack, Catastrophic 5conflict or disaster, may result in a sudden influx of a proportion of these overseas",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-090",
+    "national_risk": "Significant disruption to the Criminal Justice System",
+    "category": "Societal",
+    "pdf_page": 214,
+    "source_edition": "2026",
+    "definition_excerpt": "The adult male prison population has steadily grown over recent years, leading to an acute pressure on prison estate capacity. This has required Catastrophic 5the introduction of early release schemes to ensure that core criminal justice functions could continue to operate.",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-091",
+    "national_risk": "Deliberate disruption of UK space systems and space-based services",
+    "category": "Conflict and instability",
+    "pdf_page": 217,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Conflict and instability Deliberate disruption of UK space systems and space‑based services The UK relies on a broad range of space capabilities every day. These include infrastructure in orbit and on the ground, the people that operate Catastrophic 5it, and the applications and services that run on it. Satellite‑derived",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-092",
+    "national_risk": "Attack on a non-NATO partner requiring UK assistance",
+    "category": "Conflict and instability",
+    "pdf_page": 219,
+    "source_edition": "2026",
+    "definition_excerpt": "See the National Risk Register source page for its scenario and definition; automatic text extraction was insufficient.",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-093",
+    "national_risk": "Attack against a NATO ally or UK deployed forces, which meets the Article 5 threshold",
+    "category": "Conflict and instability",
+    "pdf_page": 220,
+    "source_edition": "2026",
+    "definition_excerpt": "Chapter 4 Conflict and instability Attack against a NATO ally or UK deployed forces, which meets the Article 5 threshold The North Atlantic Treaty Organization’s (NATO) purpose is to guarantee",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-094",
+    "national_risk": "Conventional attack on the UK mainland or Overseas Territories",
+    "category": "Conflict and instability",
+    "pdf_page": 221,
+    "source_edition": "2026",
+    "definition_excerpt": "3 Protection of the UK, its citizens, property, and territory, from adversarial Common consequences states, is the first responsibility of government. This defence and security The exact consequences will be dependent on the nature of the attack;protection extends to UK Overseas Territories and Crown Dependencies. this could include some",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  },
+  {
+    "national_id": "NRR26-095",
+    "national_risk": "Nuclear miscalculation not involving the UK or its allies",
+    "category": "Conflict and instability",
+    "pdf_page": 222,
+    "source_edition": "2026",
+    "definition_excerpt": "Nuclear miscalculation refers to the risk that a state will mistake the intentions of another state and respond by launching a nuclear strike. The Catastrophic 5UK works within the Non‑Proliferation Treaty to stop the spread of nuclear weapons, promote cooperation and advance nuclear disarmament. The UK does everything it can to promote",
+    "source_file": "UK_National_Risk_Register_2026.pdf"
+  }
+]
